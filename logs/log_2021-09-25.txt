@@ -1,0 +1,16 @@
+[34m[INFO][0m	2021/09/25 19:47:24 init.go:34: loggers is done!
+[34m[INFO][0m	2021/09/25 19:47:24 main.go:22: initialization completed!
+[34m[INFO][0m	2021/09/25 19:47:24 main.go:44: server listening on port 4330
+[34m[INFO][0m	2021/09/25 19:48:48 init.go:34: loggers is done!
+[34m[INFO][0m	2021/09/25 19:48:48 main.go:22: initialization completed!
+[34m[INFO][0m	2021/09/25 19:48:48 main.go:44: server listening on port 4330
+[31m[ERROR][0m	2021/09/25 19:49:15 server.go:3117: http: TLS handshake error from [::1]:47510: read tcp [::1]:4330->[::1]:47510: i/o timeout
+[31m[ERROR][0m	2021/09/25 19:49:21 server.go:3117: http: TLS handshake error from [::1]:47648: remote error: tls: unknown certificate
+[31m[ERROR][0m	2021/09/25 19:49:21 server.go:3117: http: TLS handshake error from [::1]:47650: remote error: tls: unknown certificate
+[31m[ERROR][0m	2021/09/25 19:49:24 server.go:3117: http: TLS handshake error from [::1]:47682: remote error: tls: unknown certificate
+[31m[ERROR][0m	2021/09/25 19:49:24 server.go:3117: http: TLS handshake error from [::1]:47684: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/25 19:49:24 handlers.go:32: [::1]:47690 GET: '/'
+[34m[INFO][0m	2021/09/25 19:49:25 handlers.go:32: [::1]:47690 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/25 19:49:26 handlers.go:32: [::1]:47690 GET: '/'
+[34m[INFO][0m	2021/09/25 19:49:26 handlers.go:32: [::1]:47690 GET: '/favicon.ico'
+[31m[ERROR][0m	2021/09/25 19:49:28 server.go:3117: http: TLS handshake error from [::1]:47618: read tcp [::1]:4330->[::1]:47618: i/o timeout
