@@ -1,0 +1,1775 @@
+[34m[INFO][0m	2021/09/26 15:15:29 init.go:35: loggers is done!
+[34m[INFO][0m	2021/09/26 15:15:29 main.go:22: initialization completed!
+[34m[INFO][0m	2021/09/26 15:15:29 main.go:44: server listening on port 4330
+[31m[ERROR][0m	2021/09/26 16:15:02 server.go:3117: http: TLS handshake error from [::1]:44926: read tcp [::1]:4330->[::1]:44926: i/o timeout
+[31m[ERROR][0m	2021/09/26 16:15:05 server.go:3117: http: TLS handshake error from [::1]:45018: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 16:15:05 handlers.go:33: [::1]:45020 GET: '/'
+[34m[INFO][0m	2021/09/26 16:15:05 handlers.go:33: [::1]:45020 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 16:15:05 handlers.go:33: [::1]:45020 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 16:15:05 handlers.go:33: [::1]:45020 GET: '/assets/script.js'
+[34m[INFO][0m	2021/09/26 16:15:05 handlers.go:33: [::1]:45020 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 16:15:30 handlers.go:33: [::1]:45020 GET: '/'
+[34m[INFO][0m	2021/09/26 16:15:30 handlers.go:33: [::1]:45020 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 16:15:30 handlers.go:33: [::1]:45020 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 16:15:30 handlers.go:33: [::1]:45020 GET: '/assets/script.js'
+[34m[INFO][0m	2021/09/26 16:15:30 handlers.go:33: [::1]:45020 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 21:58:42 init.go:35: loggers is done!
+[34m[INFO][0m	2021/09/26 21:58:44 main.go:22: initialization completed!
+[34m[INFO][0m	2021/09/26 21:58:44 main.go:47: server listening on port 4330
+[31m[ERROR][0m	2021/09/26 21:58:53 server.go:3117: http: TLS handshake error from [::1]:59054: remote error: tls: unknown certificate
+[31m[ERROR][0m	2021/09/26 21:58:53 server.go:3117: http: TLS handshake error from [::1]:59056: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 21:58:53 handlers.go:32: [::1]:59058 GET: '/'
+[34m[INFO][0m	2021/09/26 21:58:54 handlers.go:32: [::1]:59058 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 21:58:54 handlers.go:32: [::1]:59058 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 21:58:54 handlers.go:32: [::1]:59058 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 21:58:54 handlers.go:32: [::1]:59058 GET: '/'
+[34m[INFO][0m	2021/09/26 21:58:54 handlers.go:32: [::1]:59058 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 21:58:54 handlers.go:32: [::1]:59058 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 21:58:54 handlers.go:32: [::1]:59058 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 21:58:54 handlers.go:32: [::1]:59058 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 21:58:55 handlers.go:32: [::1]:59058 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 21:58:55 handlers.go:32: [::1]:59058 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 21:58:57 handlers.go:32: [::1]:59058 GET: '/'
+[34m[INFO][0m	2021/09/26 21:58:57 handlers.go:32: [::1]:59058 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 21:58:57 handlers.go:32: [::1]:59058 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 21:58:57 handlers.go:32: [::1]:59058 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 21:58:57 handlers.go:32: [::1]:59058 GET: '/favicon.ico'
+[31m[ERROR][0m	2021/09/26 21:58:59 server.go:3117: http: TLS handshake error from [::1]:59048: read tcp [::1]:4330->[::1]:59048: i/o timeout
+[34m[INFO][0m	2021/09/26 21:59:32 init.go:35: loggers is done!
+[34m[INFO][0m	2021/09/26 21:59:34 main.go:22: initialization completed!
+[34m[INFO][0m	2021/09/26 21:59:34 main.go:47: server listening on port 4330
+[31m[ERROR][0m	2021/09/26 21:59:36 server.go:3117: http: TLS handshake error from [::1]:59400: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 21:59:36 handlers.go:28: [::1]:59402 GET: '/'
+[34m[INFO][0m	2021/09/26 21:59:36 handlers.go:28: [::1]:59402 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 21:59:36 handlers.go:28: [::1]:59402 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 21:59:36 handlers.go:28: [::1]:59402 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 21:59:36 handlers.go:28: [::1]:59402 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 22:00:28 init.go:35: loggers is done!
+[34m[INFO][0m	2021/09/26 22:00:30 main.go:22: initialization completed!
+[34m[INFO][0m	2021/09/26 22:00:30 main.go:47: server listening on port 4330
+[31m[ERROR][0m	2021/09/26 22:00:32 server.go:3117: http: TLS handshake error from [::1]:59870: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 22:00:32 handlers.go:28: [::1]:59872 GET: '/'
+[34m[INFO][0m	2021/09/26 22:00:32 handlers.go:28: [::1]:59872 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 22:00:32 handlers.go:28: [::1]:59872 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 22:00:32 handlers.go:28: [::1]:59872 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 22:00:32 handlers.go:28: [::1]:59872 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 22:00:32 handlers.go:28: [::1]:59872 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 22:00:32 handlers.go:28: [::1]:59872 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 22:00:52 handlers.go:28: [::1]:59872 GET: '/'
+[34m[INFO][0m	2021/09/26 22:00:52 handlers.go:28: [::1]:59872 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 22:00:52 handlers.go:28: [::1]:59872 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 22:00:52 handlers.go:28: [::1]:59872 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 22:00:52 handlers.go:28: [::1]:59872 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 22:00:52 handlers.go:28: [::1]:59872 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 22:00:52 handlers.go:28: [::1]:59872 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 22:00:52 handlers.go:28: [::1]:59872 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 22:00:52 server.go:3117: http: TLS handshake error from [::1]:60042: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 22:00:52 handlers.go:28: [::1]:59872 GET: '/exchange-points?'
+[34m[INFO][0m	2021/09/26 22:00:52 handlers.go:28: [::1]:59872 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 22:00:52 handlers.go:28: [::1]:60044 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 22:01:37 init.go:35: loggers is done!
+[31m[ERROR][0m	2021/09/26 22:01:42 binance.go:69: read tcp 192.168.17.132:49564->52.198.55.31:9443: i/o timeout
+[34m[INFO][0m	2021/09/26 22:01:56 init.go:35: loggers is done!
+[34m[INFO][0m	2021/09/26 22:01:58 main.go:22: initialization completed!
+[34m[INFO][0m	2021/09/26 22:01:58 main.go:47: server listening on port 4330
+[31m[ERROR][0m	2021/09/26 22:02:01 server.go:3117: http: TLS handshake error from [::1]:60634: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 22:02:01 handlers.go:28: [::1]:60636 GET: '/'
+[34m[INFO][0m	2021/09/26 22:02:01 handlers.go:28: [::1]:60636 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 22:02:01 handlers.go:28: [::1]:60636 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 22:02:01 handlers.go:28: [::1]:60636 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 22:02:01 handlers.go:28: [::1]:60636 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 22:02:01 handlers.go:28: [::1]:60636 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 22:02:01 handlers.go:28: [::1]:60636 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 22:02:01 handlers.go:28: [::1]:60636 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 22:02:01 server.go:3117: http: TLS handshake error from [::1]:60646: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 22:02:01 handlers.go:28: [::1]:60636 GET: '/exchange-points?'
+[34m[INFO][0m	2021/09/26 22:02:01 handlers.go:28: [::1]:60636 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 22:02:01 handlers.go:28: [::1]:60648 GET: '/ws/'
+[31m[ERROR][0m	2021/09/26 22:04:21 server.go:3117: http: TLS handshake error from [::1]:33540: remote error: tls: unknown certificate
+[31m[ERROR][0m	2021/09/26 22:04:21 server.go:3117: http: TLS handshake error from [::1]:33542: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 22:04:21 handlers.go:28: [::1]:33544 GET: '/'
+[31m[ERROR][0m	2021/09/26 22:04:21 ws.go:149: websocket: close 1001 (going away)
+[34m[INFO][0m	2021/09/26 22:04:21 handlers.go:28: [::1]:33544 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 22:04:21 handlers.go:28: [::1]:33544 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 22:04:21 handlers.go:28: [::1]:33544 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 22:04:21 handlers.go:28: [::1]:33544 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 22:04:21 handlers.go:28: [::1]:33544 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 22:04:21 handlers.go:28: [::1]:33544 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 22:04:21 handlers.go:28: [::1]:33544 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 22:04:21 server.go:3117: http: TLS handshake error from [::1]:33546: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 22:04:21 handlers.go:28: [::1]:33544 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 22:04:21 handlers.go:28: [::1]:33544 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 22:04:21 handlers.go:28: [::1]:33548 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 22:04:56 handlers.go:28: [::1]:33544 GET: '/'
+[31m[ERROR][0m	2021/09/26 22:04:56 ws.go:149: websocket: close 1001 (going away)
+[34m[INFO][0m	2021/09/26 22:04:56 handlers.go:28: [::1]:33544 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 22:04:56 handlers.go:28: [::1]:33544 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 22:04:56 handlers.go:28: [::1]:33544 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 22:04:56 handlers.go:28: [::1]:33544 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 22:04:56 handlers.go:28: [::1]:33544 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 22:04:56 handlers.go:28: [::1]:33544 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 22:04:56 handlers.go:28: [::1]:33544 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 22:04:56 server.go:3117: http: TLS handshake error from [::1]:33846: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 22:04:56 handlers.go:28: [::1]:33544 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 22:04:56 handlers.go:28: [::1]:33544 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 22:04:56 handlers.go:28: [::1]:33848 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 22:05:10 handlers.go:28: [::1]:33544 GET: '/'
+[31m[ERROR][0m	2021/09/26 22:05:10 ws.go:149: websocket: close 1001 (going away)
+[34m[INFO][0m	2021/09/26 22:05:10 handlers.go:28: [::1]:33544 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 22:05:10 handlers.go:28: [::1]:33544 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 22:05:10 handlers.go:28: [::1]:33544 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 22:05:10 handlers.go:28: [::1]:33544 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 22:05:10 handlers.go:28: [::1]:33544 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 22:05:10 handlers.go:28: [::1]:33544 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 22:05:10 handlers.go:28: [::1]:33544 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 22:05:10 server.go:3117: http: TLS handshake error from [::1]:33964: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 22:05:10 handlers.go:28: [::1]:33544 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 22:05:10 handlers.go:28: [::1]:33544 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 22:05:10 handlers.go:28: [::1]:33966 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 22:05:44 init.go:35: loggers is done!
+[34m[INFO][0m	2021/09/26 22:05:46 main.go:22: initialization completed!
+[34m[INFO][0m	2021/09/26 22:05:46 main.go:47: server listening on port 4330
+[31m[ERROR][0m	2021/09/26 22:05:51 server.go:3117: http: TLS handshake error from [::1]:34300: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 22:05:51 handlers.go:28: [::1]:34302 GET: '/'
+[34m[INFO][0m	2021/09/26 22:05:52 handlers.go:28: [::1]:34302 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 22:05:52 handlers.go:28: [::1]:34302 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 22:05:52 handlers.go:28: [::1]:34302 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 22:05:52 handlers.go:28: [::1]:34302 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 22:05:52 handlers.go:28: [::1]:34302 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 22:05:52 handlers.go:28: [::1]:34302 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 22:05:52 handlers.go:28: [::1]:34302 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 22:05:52 server.go:3117: http: TLS handshake error from [::1]:34304: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 22:05:52 handlers.go:28: [::1]:34302 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 22:05:52 handlers.go:28: [::1]:34302 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 22:05:52 handlers.go:28: [::1]:34306 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 22:06:53 handlers.go:28: [::1]:34302 GET: '/'
+[31m[ERROR][0m	2021/09/26 22:06:53 ws.go:149: websocket: close 1001 (going away)
+[34m[INFO][0m	2021/09/26 22:06:53 handlers.go:28: [::1]:34302 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 22:06:53 handlers.go:28: [::1]:34302 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 22:06:53 handlers.go:28: [::1]:34302 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 22:06:54 handlers.go:28: [::1]:34302 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 22:06:54 handlers.go:28: [::1]:34302 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 22:06:54 handlers.go:28: [::1]:34302 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 22:06:54 handlers.go:28: [::1]:34302 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 22:06:54 server.go:3117: http: TLS handshake error from [::1]:34810: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 22:06:54 handlers.go:28: [::1]:34302 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 22:06:54 handlers.go:28: [::1]:34302 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 22:06:54 handlers.go:28: [::1]:34812 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 22:07:11 handlers.go:28: [::1]:34302 GET: '/api/exchange-currencies?point=100&token=%!B(MISSING)object%!O(MISSING)bject%!D(MISSING)'
+[31m[ERROR][0m	2021/09/26 22:12:22 server.go:3117: http: TLS handshake error from [::1]:37442: remote error: tls: unknown certificate
+[31m[ERROR][0m	2021/09/26 22:12:22 server.go:3117: http: TLS handshake error from [::1]:37444: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 22:12:22 handlers.go:28: [::1]:37446 GET: '/'
+[31m[ERROR][0m	2021/09/26 22:12:22 ws.go:149: websocket: close 1001 (going away)
+[34m[INFO][0m	2021/09/26 22:12:22 handlers.go:28: [::1]:37446 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 22:12:22 handlers.go:28: [::1]:37446 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 22:12:22 handlers.go:28: [::1]:37446 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 22:12:22 handlers.go:28: [::1]:37446 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 22:12:22 handlers.go:28: [::1]:37446 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 22:12:22 handlers.go:28: [::1]:37446 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 22:12:22 handlers.go:28: [::1]:37446 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 22:12:22 server.go:3117: http: TLS handshake error from [::1]:37448: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 22:12:22 handlers.go:28: [::1]:37446 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 22:12:22 handlers.go:28: [::1]:37446 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 22:12:22 handlers.go:28: [::1]:37450 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 22:12:24 handlers.go:28: [::1]:37446 GET: '/api/exchange-currencies?point=100&token=%!B(MISSING)object%!O(MISSING)bject%!D(MISSING)'
+[34m[INFO][0m	2021/09/26 22:13:23 handlers.go:28: [::1]:37446 GET: '/'
+[31m[ERROR][0m	2021/09/26 22:13:23 ws.go:149: websocket: close 1001 (going away)
+[34m[INFO][0m	2021/09/26 22:13:23 handlers.go:28: [::1]:37446 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 22:13:23 handlers.go:28: [::1]:37446 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 22:13:23 handlers.go:28: [::1]:37446 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 22:13:23 handlers.go:28: [::1]:37446 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 22:13:23 handlers.go:28: [::1]:37446 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 22:13:23 handlers.go:28: [::1]:37446 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 22:13:23 handlers.go:28: [::1]:37446 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 22:13:23 server.go:3117: http: TLS handshake error from [::1]:37940: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 22:13:23 handlers.go:28: [::1]:37446 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 22:13:23 handlers.go:28: [::1]:37446 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 22:13:23 handlers.go:28: [::1]:37942 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 22:13:24 handlers.go:28: [::1]:37446 GET: '/api/exchange-currencies?point=100&token=%!B(MISSING)object%!O(MISSING)bject%!D(MISSING)'
+[34m[INFO][0m	2021/09/26 22:13:48 handlers.go:28: [::1]:37446 GET: '/'
+[31m[ERROR][0m	2021/09/26 22:13:48 ws.go:149: websocket: close 1001 (going away)
+[34m[INFO][0m	2021/09/26 22:13:48 handlers.go:28: [::1]:37446 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 22:13:48 handlers.go:28: [::1]:37446 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 22:13:48 handlers.go:28: [::1]:37446 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 22:13:48 handlers.go:28: [::1]:37446 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 22:13:48 handlers.go:28: [::1]:37446 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 22:13:48 handlers.go:28: [::1]:37446 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 22:13:48 handlers.go:28: [::1]:37446 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 22:13:48 server.go:3117: http: TLS handshake error from [::1]:38154: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 22:13:48 handlers.go:28: [::1]:37446 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 22:13:48 handlers.go:28: [::1]:37446 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 22:13:48 handlers.go:28: [::1]:38156 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 22:13:49 handlers.go:28: [::1]:37446 GET: '/api/exchange-currencies?point=100&token=60cECDRG'
+[31m[ERROR][0m	2021/09/26 22:25:49 server.go:3117: http: TLS handshake error from [::1]:43954: remote error: tls: unknown certificate
+[31m[ERROR][0m	2021/09/26 22:25:49 server.go:3117: http: TLS handshake error from [::1]:43956: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 22:25:49 handlers.go:28: [::1]:43958 GET: '/'
+[31m[ERROR][0m	2021/09/26 22:25:49 ws.go:149: websocket: close 1001 (going away)
+[34m[INFO][0m	2021/09/26 22:25:49 handlers.go:28: [::1]:43958 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 22:25:49 handlers.go:28: [::1]:43958 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 22:25:49 handlers.go:28: [::1]:43958 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 22:25:49 handlers.go:28: [::1]:43958 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 22:25:49 handlers.go:28: [::1]:43958 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 22:25:49 handlers.go:28: [::1]:43958 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 22:25:49 handlers.go:28: [::1]:43958 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 22:25:49 server.go:3117: http: TLS handshake error from [::1]:43962: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 22:25:49 handlers.go:28: [::1]:43958 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 22:25:49 handlers.go:28: [::1]:43958 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 22:25:49 handlers.go:28: [::1]:43964 GET: '/ws/'
+[31m[ERROR][0m	2021/09/26 22:25:49 ws.go:182: json: Unmarshal(nil)
+[31m[ERROR][0m	2021/09/26 22:28:37 server.go:3117: http: TLS handshake error from [::1]:45318: remote error: tls: unknown certificate
+[31m[ERROR][0m	2021/09/26 22:28:37 server.go:3117: http: TLS handshake error from [::1]:45320: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 22:28:37 handlers.go:28: [::1]:45322 GET: '/'
+[31m[ERROR][0m	2021/09/26 22:28:37 ws.go:149: websocket: close 1001 (going away)
+[34m[INFO][0m	2021/09/26 22:28:37 handlers.go:28: [::1]:45322 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 22:28:37 handlers.go:28: [::1]:45322 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 22:28:37 handlers.go:28: [::1]:45322 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 22:28:37 handlers.go:28: [::1]:45322 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 22:28:37 handlers.go:28: [::1]:45322 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 22:28:37 handlers.go:28: [::1]:45322 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 22:28:37 handlers.go:28: [::1]:45322 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 22:28:37 server.go:3117: http: TLS handshake error from [::1]:45324: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 22:28:37 handlers.go:28: [::1]:45322 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 22:28:37 handlers.go:28: [::1]:45322 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 22:28:37 handlers.go:28: [::1]:45326 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 22:29:21 handlers.go:28: [::1]:45322 GET: '/'
+[31m[ERROR][0m	2021/09/26 22:29:21 ws.go:149: websocket: close 1001 (going away)
+[34m[INFO][0m	2021/09/26 22:29:21 handlers.go:28: [::1]:45322 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 22:29:21 handlers.go:28: [::1]:45322 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 22:29:21 handlers.go:28: [::1]:45322 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 22:29:21 handlers.go:28: [::1]:45322 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 22:29:21 handlers.go:28: [::1]:45322 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 22:29:21 handlers.go:28: [::1]:45322 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 22:29:21 handlers.go:28: [::1]:45322 GET: '/assets/js/utils.js'
+[34m[INFO][0m	2021/09/26 22:29:21 handlers.go:28: [::1]:45322 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 22:29:21 handlers.go:28: [::1]:45322 GET: '/favicon.ico'
+[31m[ERROR][0m	2021/09/26 22:29:21 server.go:3117: http: TLS handshake error from [::1]:45680: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 22:29:21 handlers.go:28: [::1]:45690 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 22:29:34 handlers.go:28: [::1]:45322 GET: '/'
+[31m[ERROR][0m	2021/09/26 22:29:34 ws.go:149: websocket: close 1001 (going away)
+[34m[INFO][0m	2021/09/26 22:29:34 handlers.go:28: [::1]:45322 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 22:29:34 handlers.go:28: [::1]:45322 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 22:29:34 handlers.go:28: [::1]:45322 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 22:29:34 handlers.go:28: [::1]:45322 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 22:29:34 handlers.go:28: [::1]:45322 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 22:29:34 handlers.go:28: [::1]:45322 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 22:29:34 handlers.go:28: [::1]:45322 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 22:29:34 server.go:3117: http: TLS handshake error from [::1]:45802: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 22:29:34 handlers.go:28: [::1]:45322 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 22:29:34 handlers.go:28: [::1]:45322 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 22:29:34 handlers.go:28: [::1]:45804 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 22:29:42 handlers.go:28: [::1]:45322 GET: '/api/exchange-currencies?point=100&token=C0GrrANJ'
+[34m[INFO][0m	2021/09/26 22:29:43 handlers.go:28: [::1]:45322 GET: '/api/exchange-currencies?point=100&token=C0GrrANJ'
+[34m[INFO][0m	2021/09/26 22:30:28 handlers.go:28: [::1]:45322 GET: '/api/exchange-currencies?point=100&token=C0GrrANJ'
+[34m[INFO][0m	2021/09/26 22:30:29 handlers.go:28: [::1]:45322 GET: '/api/exchange-currencies?point=100&token=C0GrrANJ'
+[34m[INFO][0m	2021/09/26 22:30:32 handlers.go:28: [::1]:45322 GET: '/api/exchange-currencies?point=100&token=C0GrrANJ'
+[34m[INFO][0m	2021/09/26 22:31:20 handlers.go:28: [::1]:45322 GET: '/'
+[31m[ERROR][0m	2021/09/26 22:31:20 ws.go:149: websocket: close 1001 (going away)
+[34m[INFO][0m	2021/09/26 22:31:20 handlers.go:28: [::1]:45322 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 22:31:20 handlers.go:28: [::1]:45322 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 22:31:20 handlers.go:28: [::1]:45322 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 22:31:20 handlers.go:28: [::1]:45322 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 22:31:20 handlers.go:28: [::1]:45322 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 22:31:20 handlers.go:28: [::1]:45322 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 22:31:20 handlers.go:28: [::1]:45322 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 22:31:20 server.go:3117: http: TLS handshake error from [::1]:46668: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 22:31:20 handlers.go:28: [::1]:45322 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 22:31:20 handlers.go:28: [::1]:45322 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 22:31:20 handlers.go:28: [::1]:46670 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 22:31:21 handlers.go:28: [::1]:45322 GET: '/api/exchange-currencies?point=100&token=8lWQrURt'
+[34m[INFO][0m	2021/09/26 22:31:23 handlers.go:28: [::1]:45322 GET: '/api/exchange-currencies?point=100&token=8lWQrURt'
+[34m[INFO][0m	2021/09/26 22:31:56 handlers.go:28: [::1]:45322 GET: '/'
+[31m[ERROR][0m	2021/09/26 22:31:56 ws.go:149: websocket: close 1001 (going away)
+[34m[INFO][0m	2021/09/26 22:31:56 handlers.go:28: [::1]:45322 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 22:31:56 handlers.go:28: [::1]:45322 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 22:31:56 handlers.go:28: [::1]:45322 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 22:31:56 handlers.go:28: [::1]:45322 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 22:31:56 handlers.go:28: [::1]:45322 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 22:31:56 handlers.go:28: [::1]:45322 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 22:31:56 handlers.go:28: [::1]:45322 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 22:31:56 server.go:3117: http: TLS handshake error from [::1]:46964: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 22:31:56 handlers.go:28: [::1]:45322 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 22:31:56 handlers.go:28: [::1]:45322 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 22:31:56 handlers.go:28: [::1]:46974 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 22:32:00 handlers.go:28: [::1]:45322 GET: '/api/exchange-currencies?point=100&token=X34OUsF1'
+[34m[INFO][0m	2021/09/26 22:32:40 handlers.go:28: [::1]:45322 GET: '/'
+[31m[ERROR][0m	2021/09/26 22:32:40 ws.go:149: websocket: close 1001 (going away)
+[34m[INFO][0m	2021/09/26 22:32:40 handlers.go:28: [::1]:45322 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 22:32:40 handlers.go:28: [::1]:45322 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 22:32:40 handlers.go:28: [::1]:45322 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 22:32:40 handlers.go:28: [::1]:45322 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 22:32:40 handlers.go:28: [::1]:45322 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 22:32:40 handlers.go:28: [::1]:45322 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 22:32:40 handlers.go:28: [::1]:45322 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 22:32:40 server.go:3117: http: TLS handshake error from [::1]:47326: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 22:32:40 handlers.go:28: [::1]:45322 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 22:32:40 handlers.go:28: [::1]:45322 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 22:32:40 handlers.go:28: [::1]:47328 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 22:32:42 handlers.go:28: [::1]:45322 GET: '/api/exchange-currencies?point=100&token=uxt5ALdQ'
+[34m[INFO][0m	2021/09/26 22:33:02 handlers.go:28: [::1]:45322 GET: '/'
+[31m[ERROR][0m	2021/09/26 22:33:02 ws.go:149: websocket: close 1001 (going away)
+[34m[INFO][0m	2021/09/26 22:33:02 handlers.go:28: [::1]:45322 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 22:33:02 handlers.go:28: [::1]:45322 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 22:33:02 handlers.go:28: [::1]:45322 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 22:33:02 handlers.go:28: [::1]:45322 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 22:33:02 handlers.go:28: [::1]:45322 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 22:33:02 handlers.go:28: [::1]:45322 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 22:33:02 handlers.go:28: [::1]:45322 GET: '/assets/js/utils.js'
+[34m[INFO][0m	2021/09/26 22:33:02 handlers.go:28: [::1]:45322 GET: '/api/exchange-points?'
+[31m[ERROR][0m	2021/09/26 22:33:02 server.go:3117: http: TLS handshake error from [::1]:47510: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 22:33:02 handlers.go:28: [::1]:45322 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 22:33:02 handlers.go:28: [::1]:47512 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 22:33:03 handlers.go:28: [::1]:45322 GET: '/api/exchange-currencies?point=100&token=q96b8xWv'
+[34m[INFO][0m	2021/09/26 22:33:17 handlers.go:28: [::1]:45322 GET: '/'
+[31m[ERROR][0m	2021/09/26 22:33:18 ws.go:149: websocket: close 1001 (going away)
+[34m[INFO][0m	2021/09/26 22:33:18 handlers.go:28: [::1]:45322 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 22:33:18 handlers.go:28: [::1]:45322 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 22:33:18 handlers.go:28: [::1]:45322 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 22:33:18 handlers.go:28: [::1]:45322 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 22:33:18 handlers.go:28: [::1]:45322 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 22:33:18 handlers.go:28: [::1]:45322 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 22:33:18 handlers.go:28: [::1]:45322 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 22:33:18 server.go:3117: http: TLS handshake error from [::1]:47646: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 22:33:18 handlers.go:28: [::1]:45322 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 22:33:18 handlers.go:28: [::1]:45322 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 22:33:18 handlers.go:28: [::1]:47648 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 22:33:18 handlers.go:28: [::1]:45322 GET: '/api/exchange-currencies?point=100&token=AoxXqO2I'
+[34m[INFO][0m	2021/09/26 22:33:34 handlers.go:28: [::1]:45322 GET: '/'
+[31m[ERROR][0m	2021/09/26 22:33:34 ws.go:149: websocket: close 1001 (going away)
+[34m[INFO][0m	2021/09/26 22:33:35 handlers.go:28: [::1]:45322 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 22:33:35 handlers.go:28: [::1]:45322 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 22:33:35 handlers.go:28: [::1]:45322 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 22:33:35 handlers.go:28: [::1]:45322 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 22:33:35 handlers.go:28: [::1]:45322 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 22:33:35 handlers.go:28: [::1]:45322 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 22:33:35 handlers.go:28: [::1]:45322 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 22:33:35 server.go:3117: http: TLS handshake error from [::1]:47782: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 22:33:35 handlers.go:28: [::1]:45322 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 22:33:35 handlers.go:28: [::1]:45322 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 22:33:35 handlers.go:28: [::1]:47784 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 22:33:35 handlers.go:28: [::1]:45322 GET: '/api/exchange-currencies?point=100&token=IFcCWmMK'
+[34m[INFO][0m	2021/09/26 22:33:52 handlers.go:28: [::1]:45322 GET: '/'
+[31m[ERROR][0m	2021/09/26 22:33:52 ws.go:149: websocket: close 1001 (going away)
+[34m[INFO][0m	2021/09/26 22:33:52 handlers.go:28: [::1]:45322 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 22:33:52 handlers.go:28: [::1]:45322 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 22:33:52 handlers.go:28: [::1]:45322 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 22:33:52 handlers.go:28: [::1]:45322 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 22:33:52 handlers.go:28: [::1]:45322 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 22:33:52 handlers.go:28: [::1]:45322 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 22:33:52 handlers.go:28: [::1]:45322 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 22:33:52 server.go:3117: http: TLS handshake error from [::1]:47936: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 22:33:52 handlers.go:28: [::1]:45322 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 22:33:52 handlers.go:28: [::1]:45322 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 22:33:52 handlers.go:28: [::1]:47938 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 22:34:07 handlers.go:28: [::1]:45322 GET: '/'
+[31m[ERROR][0m	2021/09/26 22:34:07 ws.go:149: websocket: close 1001 (going away)
+[34m[INFO][0m	2021/09/26 22:34:07 handlers.go:28: [::1]:45322 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 22:34:07 handlers.go:28: [::1]:45322 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 22:34:07 handlers.go:28: [::1]:45322 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 22:34:08 handlers.go:28: [::1]:45322 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 22:34:08 handlers.go:28: [::1]:45322 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 22:34:08 handlers.go:28: [::1]:45322 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 22:34:08 handlers.go:28: [::1]:45322 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 22:34:08 server.go:3117: http: TLS handshake error from [::1]:48062: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 22:34:08 handlers.go:28: [::1]:45322 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 22:34:08 handlers.go:28: [::1]:45322 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 22:34:08 handlers.go:28: [::1]:48064 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 22:34:08 handlers.go:28: [::1]:45322 GET: '/api/exchange-currencies?point=100&token=ZInfjADM'
+[34m[INFO][0m	2021/09/26 22:34:21 handlers.go:28: [::1]:45322 GET: '/'
+[31m[ERROR][0m	2021/09/26 22:34:21 ws.go:149: websocket: close 1001 (going away)
+[34m[INFO][0m	2021/09/26 22:34:21 handlers.go:28: [::1]:45322 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 22:34:21 handlers.go:28: [::1]:45322 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 22:34:21 handlers.go:28: [::1]:45322 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 22:34:22 handlers.go:28: [::1]:45322 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 22:34:22 handlers.go:28: [::1]:45322 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 22:34:22 handlers.go:28: [::1]:45322 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 22:34:22 handlers.go:28: [::1]:45322 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 22:34:22 server.go:3117: http: TLS handshake error from [::1]:48182: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 22:34:22 handlers.go:28: [::1]:45322 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 22:34:22 handlers.go:28: [::1]:45322 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 22:34:22 handlers.go:28: [::1]:48184 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 22:34:23 handlers.go:28: [::1]:45322 GET: '/api/exchange-currencies?point=100&token=n2Jr8RsZ'
+[34m[INFO][0m	2021/09/26 22:34:59 handlers.go:28: [::1]:45322 GET: '/'
+[31m[ERROR][0m	2021/09/26 22:34:59 ws.go:149: websocket: close 1001 (going away)
+[34m[INFO][0m	2021/09/26 22:34:59 handlers.go:28: [::1]:45322 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 22:34:59 handlers.go:28: [::1]:45322 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 22:34:59 handlers.go:28: [::1]:45322 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 22:35:00 handlers.go:28: [::1]:45322 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 22:35:00 handlers.go:28: [::1]:45322 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 22:35:00 handlers.go:28: [::1]:45322 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 22:35:00 handlers.go:28: [::1]:45322 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 22:35:00 server.go:3117: http: TLS handshake error from [::1]:48496: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 22:35:00 handlers.go:28: [::1]:45322 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 22:35:00 handlers.go:28: [::1]:45322 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 22:35:00 handlers.go:28: [::1]:48498 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 22:35:04 handlers.go:28: [::1]:45322 GET: '/api/exchange-currencies?point=100&token=eBXJ8uMn'
+[34m[INFO][0m	2021/09/26 22:35:23 handlers.go:28: [::1]:45322 GET: '/'
+[31m[ERROR][0m	2021/09/26 22:35:23 ws.go:149: websocket: close 1001 (going away)
+[34m[INFO][0m	2021/09/26 22:35:23 handlers.go:28: [::1]:45322 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 22:35:23 handlers.go:28: [::1]:45322 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 22:35:23 handlers.go:28: [::1]:45322 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 22:35:23 handlers.go:28: [::1]:45322 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 22:35:23 handlers.go:28: [::1]:45322 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 22:35:23 handlers.go:28: [::1]:45322 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 22:35:23 handlers.go:28: [::1]:45322 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 22:35:23 server.go:3117: http: TLS handshake error from [::1]:48686: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 22:35:23 handlers.go:28: [::1]:45322 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 22:35:23 handlers.go:28: [::1]:45322 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 22:35:23 handlers.go:28: [::1]:48688 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 22:35:24 handlers.go:28: [::1]:45322 GET: '/api/exchange-currencies?point=100&token=Sj3U0cYz'
+[31m[ERROR][0m	2021/09/26 22:38:47 server.go:3117: http: TLS handshake error from [::1]:50336: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 22:38:47 handlers.go:28: [::1]:50338 GET: '/'
+[31m[ERROR][0m	2021/09/26 22:38:47 ws.go:149: websocket: close 1001 (going away)
+[34m[INFO][0m	2021/09/26 22:38:47 handlers.go:28: [::1]:50338 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 22:38:47 handlers.go:28: [::1]:50338 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 22:38:47 handlers.go:28: [::1]:50338 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 22:38:48 handlers.go:28: [::1]:50338 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 22:38:48 handlers.go:28: [::1]:50338 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 22:38:48 handlers.go:28: [::1]:50338 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 22:38:48 handlers.go:28: [::1]:50338 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 22:38:48 server.go:3117: http: TLS handshake error from [::1]:50340: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 22:38:48 handlers.go:28: [::1]:50338 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 22:38:48 handlers.go:28: [::1]:50338 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 22:38:48 handlers.go:28: [::1]:50342 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 22:40:20 handlers.go:28: [::1]:50338 GET: '/api/exchange-currencies?point=100&token=jVtHa2ck'
+[34m[INFO][0m	2021/09/26 22:41:03 handlers.go:28: [::1]:50338 GET: '/'
+[31m[ERROR][0m	2021/09/26 22:41:04 ws.go:149: websocket: close 1001 (going away)
+[34m[INFO][0m	2021/09/26 22:41:04 handlers.go:28: [::1]:50338 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 22:41:04 handlers.go:28: [::1]:50338 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 22:41:04 handlers.go:28: [::1]:50338 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 22:41:04 handlers.go:28: [::1]:50338 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 22:41:04 handlers.go:28: [::1]:50338 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 22:41:04 handlers.go:28: [::1]:50338 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 22:41:04 handlers.go:28: [::1]:50338 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 22:41:04 server.go:3117: http: TLS handshake error from [::1]:51540: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 22:41:04 handlers.go:28: [::1]:50338 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 22:41:04 handlers.go:28: [::1]:50338 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 22:41:04 handlers.go:28: [::1]:51542 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 22:41:29 handlers.go:28: [::1]:50338 GET: '/api/exchange-currencies?point=100&token=UhTVNLgZ'
+[34m[INFO][0m	2021/09/26 22:42:45 handlers.go:28: [::1]:50338 GET: '/'
+[31m[ERROR][0m	2021/09/26 22:42:45 ws.go:149: websocket: close 1001 (going away)
+[34m[INFO][0m	2021/09/26 22:42:45 handlers.go:28: [::1]:50338 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 22:42:45 handlers.go:28: [::1]:50338 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 22:42:45 handlers.go:28: [::1]:50338 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 22:42:45 handlers.go:28: [::1]:50338 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 22:42:45 handlers.go:28: [::1]:50338 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 22:42:45 handlers.go:28: [::1]:50338 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 22:42:45 handlers.go:28: [::1]:50338 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 22:42:45 server.go:3117: http: TLS handshake error from [::1]:52372: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 22:42:45 handlers.go:28: [::1]:50338 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 22:42:45 handlers.go:28: [::1]:50338 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 22:42:45 handlers.go:28: [::1]:52374 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 22:42:47 handlers.go:28: [::1]:50338 GET: '/api/exchange-currencies?point=100&token=b8uq2Oj5'
+[34m[INFO][0m	2021/09/26 22:43:27 handlers.go:28: [::1]:50338 GET: '/'
+[31m[ERROR][0m	2021/09/26 22:43:27 ws.go:149: websocket: close 1001 (going away)
+[34m[INFO][0m	2021/09/26 22:43:27 handlers.go:28: [::1]:50338 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 22:43:27 handlers.go:28: [::1]:50338 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 22:43:27 handlers.go:28: [::1]:50338 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 22:43:27 handlers.go:28: [::1]:50338 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 22:43:27 handlers.go:28: [::1]:50338 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 22:43:27 handlers.go:28: [::1]:50338 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 22:43:27 handlers.go:28: [::1]:50338 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 22:43:27 server.go:3117: http: TLS handshake error from [::1]:52712: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 22:43:27 handlers.go:28: [::1]:50338 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 22:43:27 handlers.go:28: [::1]:50338 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 22:43:27 handlers.go:28: [::1]:52714 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 22:43:30 handlers.go:28: [::1]:50338 GET: '/api/exchange-currencies?point=100&token=2q4WHsKM'
+[34m[INFO][0m	2021/09/26 22:43:49 handlers.go:28: [::1]:50338 GET: '/'
+[31m[ERROR][0m	2021/09/26 22:43:49 ws.go:149: websocket: close 1001 (going away)
+[34m[INFO][0m	2021/09/26 22:43:49 handlers.go:28: [::1]:50338 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 22:43:49 handlers.go:28: [::1]:50338 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 22:43:49 handlers.go:28: [::1]:50338 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 22:43:49 handlers.go:28: [::1]:50338 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 22:43:49 handlers.go:28: [::1]:50338 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 22:43:49 handlers.go:28: [::1]:50338 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 22:43:49 handlers.go:28: [::1]:50338 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 22:43:49 server.go:3117: http: TLS handshake error from [::1]:52888: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 22:43:49 handlers.go:28: [::1]:50338 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 22:43:49 handlers.go:28: [::1]:50338 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 22:43:49 handlers.go:28: [::1]:52890 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 22:44:07 handlers.go:28: [::1]:50338 GET: '/'
+[31m[ERROR][0m	2021/09/26 22:44:07 ws.go:149: websocket: close 1001 (going away)
+[34m[INFO][0m	2021/09/26 22:44:07 handlers.go:28: [::1]:50338 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 22:44:07 handlers.go:28: [::1]:50338 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 22:44:07 handlers.go:28: [::1]:50338 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 22:44:07 handlers.go:28: [::1]:50338 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 22:44:07 handlers.go:28: [::1]:50338 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 22:44:07 handlers.go:28: [::1]:50338 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 22:44:07 handlers.go:28: [::1]:50338 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 22:44:07 server.go:3117: http: TLS handshake error from [::1]:53048: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 22:44:07 handlers.go:28: [::1]:50338 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 22:44:07 handlers.go:28: [::1]:50338 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 22:44:07 handlers.go:28: [::1]:53050 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 22:44:19 handlers.go:28: [::1]:50338 GET: '/'
+[31m[ERROR][0m	2021/09/26 22:44:19 ws.go:149: websocket: close 1001 (going away)
+[34m[INFO][0m	2021/09/26 22:44:19 handlers.go:28: [::1]:50338 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 22:44:19 handlers.go:28: [::1]:50338 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 22:44:19 handlers.go:28: [::1]:50338 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 22:44:19 handlers.go:28: [::1]:50338 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 22:44:19 handlers.go:28: [::1]:50338 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 22:44:19 handlers.go:28: [::1]:50338 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 22:44:19 handlers.go:28: [::1]:50338 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 22:44:19 server.go:3117: http: TLS handshake error from [::1]:53150: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 22:44:19 handlers.go:28: [::1]:50338 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 22:44:19 handlers.go:28: [::1]:50338 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 22:44:20 handlers.go:28: [::1]:53152 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 22:44:21 handlers.go:28: [::1]:50338 GET: '/api/exchange-currencies?point=100&token=NwZvs7HJ'
+[34m[INFO][0m	2021/09/26 22:45:04 handlers.go:28: [::1]:50338 GET: '/api/exchange-subscribe?point=100&symbol=ETHBTC&token=NwZvs7HJ'
+[31m[ERROR][0m	2021/09/26 22:45:05 h2_bundle.go:4215: http2: panic serving [::1]:50338: reflect: call of reflect.Value.NumField on ptr Value
+goroutine 3332 [running]:
+net/http.(*http2serverConn).runHandler.func1(0xc000010008, 0xc000a2df8e, 0xc000487380)
+	/usr/local/go/src/net/http/h2_bundle.go:5716 +0x193
+panic(0x7805a0, 0xc0003e5d40)
+	/usr/local/go/src/runtime/panic.go:965 +0x1b9
+reflect.flag.mustBe(...)
+	/usr/local/go/src/reflect/value.go:221
+reflect.Value.NumField(0x75f6a0, 0xc00030c200, 0x16, 0x4)
+	/usr/local/go/src/reflect/value.go:1369 +0xc5
+binance/pkg.MakeArrFromStruct(0x75f6a0, 0xc00030c200, 0x200, 0x75f6a0, 0xc00030c200)
+	/home/miron/Documents/job tests/altf4/pkg/converter.go:14 +0x12a
+binance/pkg.(*Application).BinanceSubscribeCurrencie(0xc00006c360, 0x85d5c0, 0xc000010008, 0xc000de6000, 0x3, 0xc001240040, 0x9, 0xc0003040c4)
+	/home/miron/Documents/job tests/altf4/pkg/binance.go:268 +0x56c
+binance/pkg.(*Application).SubscribeCurrencie(0xc00006c360, 0x85d5c0, 0xc000010008, 0xc000de6000, 0x13, 0x9, 0xc0000579a0, 0x4199f7)
+	/home/miron/Documents/job tests/altf4/pkg/utils.go:87 +0x149
+binance/pkg.HApi(0x85d5c0, 0xc000010008, 0xc000de6000, 0xc0000579f8)
+	/home/miron/Documents/job tests/altf4/pkg/api.go:34 +0x48
+binance/pkg.(*Application).HExSubscribe(...)
+	/home/miron/Documents/job tests/altf4/pkg/handlers.go:126
+net/http.HandlerFunc.ServeHTTP(0xc0004980c0, 0x85d5c0, 0xc000010008, 0xc000de6000)
+	/usr/local/go/src/net/http/server.go:2049 +0x44
+net/http.(*ServeMux).ServeHTTP(0xc0000ce1c0, 0x85d5c0, 0xc000010008, 0xc000de6000)
+	/usr/local/go/src/net/http/server.go:2428 +0x1ad
+net/http.StripPrefix.func1(0x85d5c0, 0xc000010008, 0xc0009d6100)
+	/usr/local/go/src/net/http/server.go:2092 +0x234
+net/http.HandlerFunc.ServeHTTP(0xc00048a270, 0x85d5c0, 0xc000010008, 0xc0009d6100)
+	/usr/local/go/src/net/http/server.go:2049 +0x44
+net/http.(*ServeMux).ServeHTTP(0xc0000ce100, 0x85d5c0, 0xc000010008, 0xc0009d6100)
+	/usr/local/go/src/net/http/server.go:2428 +0x1ad
+binance/pkg.(*Application).AccessLogMiddleware.func1(0x85d5c0, 0xc000010008, 0xc0009d6100)
+	/home/miron/Documents/job tests/altf4/pkg/handlers.go:29 +0x1ac
+net/http.HandlerFunc.ServeHTTP(0xc0000a2160, 0x85d5c0, 0xc000010008, 0xc0009d6100)
+	/usr/local/go/src/net/http/server.go:2049 +0x44
+binance/pkg.(*Application).SecureHeaderMiddleware.func1(0x85d5c0, 0xc000010008, 0xc0009d6100)
+	/home/miron/Documents/job tests/altf4/pkg/handlers.go:19 +0x5ac
+net/http.HandlerFunc.ServeHTTP(0xc00049e060, 0x85d5c0, 0xc000010008, 0xc0009d6100)
+	/usr/local/go/src/net/http/server.go:2049 +0x44
+net/http.serverHandler.ServeHTTP(0xc0004aa000, 0x85d5c0, 0xc000010008, 0xc0009d6100)
+	/usr/local/go/src/net/http/server.go:2867 +0xa3
+net/http.initALPNRequest.ServeHTTP(0x85dda0, 0xc000a24360, 0xc000186700, 0xc0004aa000, 0x85d5c0, 0xc000010008, 0xc0009d6100)
+	/usr/local/go/src/net/http/server.go:3439 +0x8d
+net/http.(*http2serverConn).runHandler(0xc000487380, 0xc000010008, 0xc0009d6100, 0xc00026c000)
+	/usr/local/go/src/net/http/h2_bundle.go:5723 +0x8b
+created by net/http.(*http2serverConn).processHeaders
+	/usr/local/go/src/net/http/h2_bundle.go:5453 +0x505
+[31m[ERROR][0m	2021/09/26 22:49:07 server.go:3117: http: TLS handshake error from [::1]:55540: remote error: tls: unknown certificate
+[31m[ERROR][0m	2021/09/26 22:49:07 server.go:3117: http: TLS handshake error from [::1]:55542: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 22:49:07 handlers.go:28: [::1]:55544 GET: '/'
+[31m[ERROR][0m	2021/09/26 22:49:07 ws.go:149: websocket: close 1001 (going away)
+[34m[INFO][0m	2021/09/26 22:49:07 handlers.go:28: [::1]:55544 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 22:49:07 handlers.go:28: [::1]:55544 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 22:49:07 handlers.go:28: [::1]:55544 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 22:49:07 handlers.go:28: [::1]:55544 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 22:49:07 handlers.go:28: [::1]:55544 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 22:49:07 handlers.go:28: [::1]:55544 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 22:49:07 handlers.go:28: [::1]:55544 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 22:49:07 server.go:3117: http: TLS handshake error from [::1]:55556: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 22:49:07 handlers.go:28: [::1]:55544 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 22:49:07 handlers.go:28: [::1]:55544 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 22:49:07 handlers.go:28: [::1]:55558 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 22:49:08 handlers.go:28: [::1]:55544 GET: '/api/exchange-currencies?point=100&token=rPzPv0de'
+[34m[INFO][0m	2021/09/26 22:49:20 handlers.go:28: [::1]:55544 GET: '/api/exchange-subscribe?point=100&symbol=ETHBTC&token=rPzPv0de'
+[31m[ERROR][0m	2021/09/26 22:49:20 h2_bundle.go:4215: http2: panic serving [::1]:55544: reflect: call of reflect.Value.NumField on ptr Value
+goroutine 3589 [running]:
+net/http.(*http2serverConn).runHandler.func1(0xc0005ae010, 0xc00054ff8e, 0xc000487380)
+	/usr/local/go/src/net/http/h2_bundle.go:5716 +0x193
+panic(0x7805a0, 0xc00016e078)
+	/usr/local/go/src/runtime/panic.go:965 +0x1b9
+reflect.flag.mustBe(...)
+	/usr/local/go/src/reflect/value.go:221
+reflect.Value.NumField(0x75f6a0, 0xc0002e60c0, 0x16, 0x4)
+	/usr/local/go/src/reflect/value.go:1369 +0xc5
+binance/pkg.MakeArrFromStruct(0x75f6a0, 0xc0002e60c0, 0x200, 0x75f6a0, 0xc0002e60c0)
+	/home/miron/Documents/job tests/altf4/pkg/converter.go:14 +0x12a
+binance/pkg.(*Application).BinanceSubscribeCurrencie(0xc00006c360, 0x85d5c0, 0xc0005ae010, 0xc000bee000, 0x3, 0xc0009e4020, 0x9, 0xc0000a0104)
+	/home/miron/Documents/job tests/altf4/pkg/binance.go:268 +0x56c
+binance/pkg.(*Application).SubscribeCurrencie(0xc00006c360, 0x85d5c0, 0xc0005ae010, 0xc000bee000, 0x13, 0x9, 0xc000ae99a0, 0x4199f7)
+	/home/miron/Documents/job tests/altf4/pkg/utils.go:87 +0x149
+binance/pkg.HApi(0x85d5c0, 0xc0005ae010, 0xc000bee000, 0xc000ae99f8)
+	/home/miron/Documents/job tests/altf4/pkg/api.go:34 +0x48
+binance/pkg.(*Application).HExSubscribe(...)
+	/home/miron/Documents/job tests/altf4/pkg/handlers.go:126
+net/http.HandlerFunc.ServeHTTP(0xc0004980c0, 0x85d5c0, 0xc0005ae010, 0xc000bee000)
+	/usr/local/go/src/net/http/server.go:2049 +0x44
+net/http.(*ServeMux).ServeHTTP(0xc0000ce1c0, 0x85d5c0, 0xc0005ae010, 0xc000bee000)
+	/usr/local/go/src/net/http/server.go:2428 +0x1ad
+net/http.StripPrefix.func1(0x85d5c0, 0xc0005ae010, 0xc000df6100)
+	/usr/local/go/src/net/http/server.go:2092 +0x234
+net/http.HandlerFunc.ServeHTTP(0xc00048a270, 0x85d5c0, 0xc0005ae010, 0xc000df6100)
+	/usr/local/go/src/net/http/server.go:2049 +0x44
+net/http.(*ServeMux).ServeHTTP(0xc0000ce100, 0x85d5c0, 0xc0005ae010, 0xc000df6100)
+	/usr/local/go/src/net/http/server.go:2428 +0x1ad
+binance/pkg.(*Application).AccessLogMiddleware.func1(0x85d5c0, 0xc0005ae010, 0xc000df6100)
+	/home/miron/Documents/job tests/altf4/pkg/handlers.go:29 +0x1ac
+net/http.HandlerFunc.ServeHTTP(0xc0000a2160, 0x85d5c0, 0xc0005ae010, 0xc000df6100)
+	/usr/local/go/src/net/http/server.go:2049 +0x44
+binance/pkg.(*Application).SecureHeaderMiddleware.func1(0x85d5c0, 0xc0005ae010, 0xc000df6100)
+	/home/miron/Documents/job tests/altf4/pkg/handlers.go:19 +0x5ac
+net/http.HandlerFunc.ServeHTTP(0xc00049e060, 0x85d5c0, 0xc0005ae010, 0xc000df6100)
+	/usr/local/go/src/net/http/server.go:2049 +0x44
+net/http.serverHandler.ServeHTTP(0xc0004aa000, 0x85d5c0, 0xc0005ae010, 0xc000df6100)
+	/usr/local/go/src/net/http/server.go:2867 +0xa3
+net/http.initALPNRequest.ServeHTTP(0x85dda0, 0xc0001010b0, 0xc000186380, 0xc0004aa000, 0x85d5c0, 0xc0005ae010, 0xc000df6100)
+	/usr/local/go/src/net/http/server.go:3439 +0x8d
+net/http.(*http2serverConn).runHandler(0xc000487380, 0xc0005ae010, 0xc000df6100, 0xc0002a4cc0)
+	/usr/local/go/src/net/http/h2_bundle.go:5723 +0x8b
+created by net/http.(*http2serverConn).processHeaders
+	/usr/local/go/src/net/http/h2_bundle.go:5453 +0x505
+[34m[INFO][0m	2021/09/26 22:50:12 handlers.go:28: [::1]:55544 GET: '/'
+[31m[ERROR][0m	2021/09/26 22:50:12 ws.go:149: websocket: close 1001 (going away)
+[34m[INFO][0m	2021/09/26 22:50:12 handlers.go:28: [::1]:55544 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 22:50:12 handlers.go:28: [::1]:55544 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 22:50:12 handlers.go:28: [::1]:55544 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 22:50:12 handlers.go:28: [::1]:55544 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 22:50:12 handlers.go:28: [::1]:55544 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 22:50:12 handlers.go:28: [::1]:55544 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 22:50:12 handlers.go:28: [::1]:55544 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 22:50:12 server.go:3117: http: TLS handshake error from [::1]:56080: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 22:50:12 handlers.go:28: [::1]:55544 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 22:50:12 handlers.go:28: [::1]:55544 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 22:50:12 handlers.go:28: [::1]:56082 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 22:51:31 handlers.go:28: [::1]:55544 GET: '/'
+[31m[ERROR][0m	2021/09/26 22:51:31 ws.go:149: websocket: close 1001 (going away)
+[34m[INFO][0m	2021/09/26 22:51:31 handlers.go:28: [::1]:55544 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 22:51:31 handlers.go:28: [::1]:55544 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 22:51:31 handlers.go:28: [::1]:55544 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 22:51:31 handlers.go:28: [::1]:55544 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 22:51:31 handlers.go:28: [::1]:55544 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 22:51:31 handlers.go:28: [::1]:55544 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 22:51:31 handlers.go:28: [::1]:55544 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 22:51:31 server.go:3117: http: TLS handshake error from [::1]:56728: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 22:51:31 handlers.go:28: [::1]:55544 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 22:51:31 handlers.go:28: [::1]:55544 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 22:51:31 handlers.go:28: [::1]:56730 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 22:51:32 handlers.go:28: [::1]:55544 GET: '/api/exchange-currencies?point=100&token=CVTTVwfY'
+[34m[INFO][0m	2021/09/26 22:51:34 handlers.go:28: [::1]:55544 GET: '/api/exchange-subscribe?point=100&symbol=ETHBTC&token=CVTTVwfY'
+[31m[ERROR][0m	2021/09/26 22:51:34 h2_bundle.go:4215: http2: panic serving [::1]:55544: reflect: call of reflect.Value.NumField on ptr Value
+goroutine 3781 [running]:
+net/http.(*http2serverConn).runHandler.func1(0xc000094008, 0xc00054ff8e, 0xc000487380)
+	/usr/local/go/src/net/http/h2_bundle.go:5716 +0x193
+panic(0x7805a0, 0xc0002d55c0)
+	/usr/local/go/src/runtime/panic.go:965 +0x1b9
+reflect.flag.mustBe(...)
+	/usr/local/go/src/reflect/value.go:221
+reflect.Value.NumField(0x75f6a0, 0xc00002a400, 0x16, 0x4)
+	/usr/local/go/src/reflect/value.go:1369 +0xc5
+binance/pkg.MakeArrFromStruct(0x75f6a0, 0xc00002a400, 0x200, 0x75f6a0, 0xc00002a400)
+	/home/miron/Documents/job tests/altf4/pkg/converter.go:14 +0x12a
+binance/pkg.(*Application).BinanceSubscribeCurrencie(0xc00006c360, 0x85d5c0, 0xc000094008, 0xc000bee300, 0x3, 0xc0009e4020, 0x9, 0xc0000a0104)
+	/home/miron/Documents/job tests/altf4/pkg/binance.go:268 +0x56c
+binance/pkg.(*Application).SubscribeCurrencie(0xc00006c360, 0x85d5c0, 0xc000094008, 0xc000bee300, 0x13, 0x9, 0x5, 0x4)
+	/home/miron/Documents/job tests/altf4/pkg/utils.go:87 +0x149
+binance/pkg.HApi(0x85d5c0, 0xc000094008, 0xc000bee300, 0xc000aef9f8)
+	/home/miron/Documents/job tests/altf4/pkg/api.go:34 +0x48
+binance/pkg.(*Application).HExSubscribe(...)
+	/home/miron/Documents/job tests/altf4/pkg/handlers.go:126
+net/http.HandlerFunc.ServeHTTP(0xc0004980c0, 0x85d5c0, 0xc000094008, 0xc000bee300)
+	/usr/local/go/src/net/http/server.go:2049 +0x44
+net/http.(*ServeMux).ServeHTTP(0xc0000ce1c0, 0x85d5c0, 0xc000094008, 0xc000bee300)
+	/usr/local/go/src/net/http/server.go:2428 +0x1ad
+net/http.StripPrefix.func1(0x85d5c0, 0xc000094008, 0xc000bee100)
+	/usr/local/go/src/net/http/server.go:2092 +0x234
+net/http.HandlerFunc.ServeHTTP(0xc00048a270, 0x85d5c0, 0xc000094008, 0xc000bee100)
+	/usr/local/go/src/net/http/server.go:2049 +0x44
+net/http.(*ServeMux).ServeHTTP(0xc0000ce100, 0x85d5c0, 0xc000094008, 0xc000bee100)
+	/usr/local/go/src/net/http/server.go:2428 +0x1ad
+binance/pkg.(*Application).AccessLogMiddleware.func1(0x85d5c0, 0xc000094008, 0xc000bee100)
+	/home/miron/Documents/job tests/altf4/pkg/handlers.go:29 +0x1ac
+net/http.HandlerFunc.ServeHTTP(0xc0000a2160, 0x85d5c0, 0xc000094008, 0xc000bee100)
+	/usr/local/go/src/net/http/server.go:2049 +0x44
+binance/pkg.(*Application).SecureHeaderMiddleware.func1(0x85d5c0, 0xc000094008, 0xc000bee100)
+	/home/miron/Documents/job tests/altf4/pkg/handlers.go:19 +0x5ac
+net/http.HandlerFunc.ServeHTTP(0xc00049e060, 0x85d5c0, 0xc000094008, 0xc000bee100)
+	/usr/local/go/src/net/http/server.go:2049 +0x44
+net/http.serverHandler.ServeHTTP(0xc0004aa000, 0x85d5c0, 0xc000094008, 0xc000bee100)
+	/usr/local/go/src/net/http/server.go:2867 +0xa3
+net/http.initALPNRequest.ServeHTTP(0x85dda0, 0xc0001010b0, 0xc000186380, 0xc0004aa000, 0x85d5c0, 0xc000094008, 0xc000bee100)
+	/usr/local/go/src/net/http/server.go:3439 +0x8d
+net/http.(*http2serverConn).runHandler(0xc000487380, 0xc000094008, 0xc000bee100, 0xc0002d5530)
+	/usr/local/go/src/net/http/h2_bundle.go:5723 +0x8b
+created by net/http.(*http2serverConn).processHeaders
+	/usr/local/go/src/net/http/h2_bundle.go:5453 +0x505
+[34m[INFO][0m	2021/09/26 22:52:17 handlers.go:28: [::1]:55544 GET: '/'
+[31m[ERROR][0m	2021/09/26 22:52:17 ws.go:149: websocket: close 1001 (going away)
+[34m[INFO][0m	2021/09/26 22:52:17 handlers.go:28: [::1]:55544 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 22:52:17 handlers.go:28: [::1]:55544 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 22:52:17 handlers.go:28: [::1]:55544 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 22:52:17 handlers.go:28: [::1]:55544 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 22:52:17 handlers.go:28: [::1]:55544 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 22:52:17 handlers.go:28: [::1]:55544 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 22:52:17 handlers.go:28: [::1]:55544 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 22:52:17 server.go:3117: http: TLS handshake error from [::1]:57112: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 22:52:17 handlers.go:28: [::1]:55544 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 22:52:17 handlers.go:28: [::1]:55544 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 22:52:17 handlers.go:28: [::1]:57114 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 22:52:17 handlers.go:28: [::1]:55544 GET: '/api/exchange-currencies?point=100&token=2Kj4p8gj'
+[34m[INFO][0m	2021/09/26 22:52:19 handlers.go:28: [::1]:55544 GET: '/api/exchange-subscribe?point=100&symbol=ETHBTC&token=2Kj4p8gj'
+[31m[ERROR][0m	2021/09/26 22:52:20 h2_bundle.go:4215: http2: panic serving [::1]:55544: reflect: call of reflect.Value.NumField on ptr Value
+goroutine 3449 [running]:
+net/http.(*http2serverConn).runHandler.func1(0xc000488000, 0xc00054ff8e, 0xc000487380)
+	/usr/local/go/src/net/http/h2_bundle.go:5716 +0x193
+panic(0x7805a0, 0xc0000fe048)
+	/usr/local/go/src/runtime/panic.go:965 +0x1b9
+reflect.flag.mustBe(...)
+	/usr/local/go/src/reflect/value.go:221
+reflect.Value.NumField(0x75f6a0, 0xc0002e6180, 0x16, 0x4)
+	/usr/local/go/src/reflect/value.go:1369 +0xc5
+binance/pkg.MakeArrFromStruct(0x75f6a0, 0xc0002e6180, 0x200, 0x75f6a0, 0xc0002e6180)
+	/home/miron/Documents/job tests/altf4/pkg/converter.go:14 +0x12a
+binance/pkg.(*Application).BinanceSubscribeCurrencie(0xc00006c360, 0x85d5c0, 0xc000488000, 0xc000af2200, 0x3, 0xc0009e4020, 0x9, 0xc000530044)
+	/home/miron/Documents/job tests/altf4/pkg/binance.go:268 +0x56c
+binance/pkg.(*Application).SubscribeCurrencie(0xc00006c360, 0x85d5c0, 0xc000488000, 0xc000af2200, 0x13, 0x9, 0x5, 0x4)
+	/home/miron/Documents/job tests/altf4/pkg/utils.go:87 +0x149
+binance/pkg.HApi(0x85d5c0, 0xc000488000, 0xc000af2200, 0xc0000549f8)
+	/home/miron/Documents/job tests/altf4/pkg/api.go:34 +0x48
+binance/pkg.(*Application).HExSubscribe(...)
+	/home/miron/Documents/job tests/altf4/pkg/handlers.go:126
+net/http.HandlerFunc.ServeHTTP(0xc0004980c0, 0x85d5c0, 0xc000488000, 0xc000af2200)
+	/usr/local/go/src/net/http/server.go:2049 +0x44
+net/http.(*ServeMux).ServeHTTP(0xc0000ce1c0, 0x85d5c0, 0xc000488000, 0xc000af2200)
+	/usr/local/go/src/net/http/server.go:2428 +0x1ad
+net/http.StripPrefix.func1(0x85d5c0, 0xc000488000, 0xc000af2100)
+	/usr/local/go/src/net/http/server.go:2092 +0x234
+net/http.HandlerFunc.ServeHTTP(0xc00048a270, 0x85d5c0, 0xc000488000, 0xc000af2100)
+	/usr/local/go/src/net/http/server.go:2049 +0x44
+net/http.(*ServeMux).ServeHTTP(0xc0000ce100, 0x85d5c0, 0xc000488000, 0xc000af2100)
+	/usr/local/go/src/net/http/server.go:2428 +0x1ad
+binance/pkg.(*Application).AccessLogMiddleware.func1(0x85d5c0, 0xc000488000, 0xc000af2100)
+	/home/miron/Documents/job tests/altf4/pkg/handlers.go:29 +0x1ac
+net/http.HandlerFunc.ServeHTTP(0xc0000a2160, 0x85d5c0, 0xc000488000, 0xc000af2100)
+	/usr/local/go/src/net/http/server.go:2049 +0x44
+binance/pkg.(*Application).SecureHeaderMiddleware.func1(0x85d5c0, 0xc000488000, 0xc000af2100)
+	/home/miron/Documents/job tests/altf4/pkg/handlers.go:19 +0x5ac
+net/http.HandlerFunc.ServeHTTP(0xc00049e060, 0x85d5c0, 0xc000488000, 0xc000af2100)
+	/usr/local/go/src/net/http/server.go:2049 +0x44
+net/http.serverHandler.ServeHTTP(0xc0004aa000, 0x85d5c0, 0xc000488000, 0xc000af2100)
+	/usr/local/go/src/net/http/server.go:2867 +0xa3
+net/http.initALPNRequest.ServeHTTP(0x85dda0, 0xc0001010b0, 0xc000186380, 0xc0004aa000, 0x85d5c0, 0xc000488000, 0xc000af2100)
+	/usr/local/go/src/net/http/server.go:3439 +0x8d
+net/http.(*http2serverConn).runHandler(0xc000487380, 0xc000488000, 0xc000af2100, 0xc00026c000)
+	/usr/local/go/src/net/http/h2_bundle.go:5723 +0x8b
+created by net/http.(*http2serverConn).processHeaders
+	/usr/local/go/src/net/http/h2_bundle.go:5453 +0x505
+[34m[INFO][0m	2021/09/26 22:54:14 handlers.go:28: [::1]:55544 GET: '/'
+[31m[ERROR][0m	2021/09/26 22:54:14 ws.go:149: websocket: close 1001 (going away)
+[34m[INFO][0m	2021/09/26 22:54:14 handlers.go:28: [::1]:55544 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 22:54:14 handlers.go:28: [::1]:55544 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 22:54:14 handlers.go:28: [::1]:55544 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 22:54:14 handlers.go:28: [::1]:55544 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 22:54:14 handlers.go:28: [::1]:55544 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 22:54:14 handlers.go:28: [::1]:55544 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 22:54:14 handlers.go:28: [::1]:55544 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 22:54:14 server.go:3117: http: TLS handshake error from [::1]:58068: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 22:54:14 handlers.go:28: [::1]:55544 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 22:54:14 handlers.go:28: [::1]:55544 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 22:54:14 handlers.go:28: [::1]:58070 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 22:54:16 handlers.go:28: [::1]:55544 GET: '/api/exchange-currencies?point=100&token=AQRAaHlm'
+[34m[INFO][0m	2021/09/26 22:54:18 handlers.go:28: [::1]:55544 GET: '/api/exchange-subscribe?point=100&symbol=LTCBTC&token=AQRAaHlm'
+[31m[ERROR][0m	2021/09/26 22:54:19 h2_bundle.go:4215: http2: panic serving [::1]:55544: reflect: call of reflect.Value.NumField on ptr Value
+goroutine 4066 [running]:
+net/http.(*http2serverConn).runHandler.func1(0xc0005ae000, 0xc00054bf8e, 0xc000487380)
+	/usr/local/go/src/net/http/h2_bundle.go:5716 +0x193
+panic(0x7805a0, 0xc0002a5740)
+	/usr/local/go/src/runtime/panic.go:965 +0x1b9
+reflect.flag.mustBe(...)
+	/usr/local/go/src/reflect/value.go:221
+reflect.Value.NumField(0x75f6a0, 0xc000d76180, 0x16, 0x4)
+	/usr/local/go/src/reflect/value.go:1369 +0xc5
+binance/pkg.MakeArrFromStruct(0x75f6a0, 0xc000d76180, 0x200, 0x75f6a0, 0xc000d76180)
+	/home/miron/Documents/job tests/altf4/pkg/converter.go:14 +0x12a
+binance/pkg.(*Application).BinanceSubscribeCurrencie(0xc00006c360, 0x85d5c0, 0xc0005ae000, 0xc00081a000, 0x3, 0xc0009e4020, 0x9, 0xc000020304)
+	/home/miron/Documents/job tests/altf4/pkg/binance.go:268 +0x56c
+binance/pkg.(*Application).SubscribeCurrencie(0xc00006c360, 0x85d5c0, 0xc0005ae000, 0xc00081a000, 0x13, 0x9, 0xc000aef9a0, 0x4199f7)
+	/home/miron/Documents/job tests/altf4/pkg/utils.go:87 +0x149
+binance/pkg.HApi(0x85d5c0, 0xc0005ae000, 0xc00081a000, 0xc000aef9f8)
+	/home/miron/Documents/job tests/altf4/pkg/api.go:34 +0x48
+binance/pkg.(*Application).HExSubscribe(...)
+	/home/miron/Documents/job tests/altf4/pkg/handlers.go:126
+net/http.HandlerFunc.ServeHTTP(0xc0004980c0, 0x85d5c0, 0xc0005ae000, 0xc00081a000)
+	/usr/local/go/src/net/http/server.go:2049 +0x44
+net/http.(*ServeMux).ServeHTTP(0xc0000ce1c0, 0x85d5c0, 0xc0005ae000, 0xc00081a000)
+	/usr/local/go/src/net/http/server.go:2428 +0x1ad
+net/http.StripPrefix.func1(0x85d5c0, 0xc0005ae000, 0xc000bee100)
+	/usr/local/go/src/net/http/server.go:2092 +0x234
+net/http.HandlerFunc.ServeHTTP(0xc00048a270, 0x85d5c0, 0xc0005ae000, 0xc000bee100)
+	/usr/local/go/src/net/http/server.go:2049 +0x44
+net/http.(*ServeMux).ServeHTTP(0xc0000ce100, 0x85d5c0, 0xc0005ae000, 0xc000bee100)
+	/usr/local/go/src/net/http/server.go:2428 +0x1ad
+binance/pkg.(*Application).AccessLogMiddleware.func1(0x85d5c0, 0xc0005ae000, 0xc000bee100)
+	/home/miron/Documents/job tests/altf4/pkg/handlers.go:29 +0x1ac
+net/http.HandlerFunc.ServeHTTP(0xc0000a2160, 0x85d5c0, 0xc0005ae000, 0xc000bee100)
+	/usr/local/go/src/net/http/server.go:2049 +0x44
+binance/pkg.(*Application).SecureHeaderMiddleware.func1(0x85d5c0, 0xc0005ae000, 0xc000bee100)
+	/home/miron/Documents/job tests/altf4/pkg/handlers.go:19 +0x5ac
+net/http.HandlerFunc.ServeHTTP(0xc00049e060, 0x85d5c0, 0xc0005ae000, 0xc000bee100)
+	/usr/local/go/src/net/http/server.go:2049 +0x44
+net/http.serverHandler.ServeHTTP(0xc0004aa000, 0x85d5c0, 0xc0005ae000, 0xc000bee100)
+	/usr/local/go/src/net/http/server.go:2867 +0xa3
+net/http.initALPNRequest.ServeHTTP(0x85dda0, 0xc0001010b0, 0xc000186380, 0xc0004aa000, 0x85d5c0, 0xc0005ae000, 0xc000bee100)
+	/usr/local/go/src/net/http/server.go:3439 +0x8d
+net/http.(*http2serverConn).runHandler(0xc000487380, 0xc0005ae000, 0xc000bee100, 0xc0010cc000)
+	/usr/local/go/src/net/http/h2_bundle.go:5723 +0x8b
+created by net/http.(*http2serverConn).processHeaders
+	/usr/local/go/src/net/http/h2_bundle.go:5453 +0x505
+[34m[INFO][0m	2021/09/26 23:03:15 init.go:35: loggers is done!
+[34m[INFO][0m	2021/09/26 23:03:17 main.go:22: initialization completed!
+[34m[INFO][0m	2021/09/26 23:03:17 main.go:47: server listening on port 4330
+[31m[ERROR][0m	2021/09/26 23:03:20 server.go:3117: http: TLS handshake error from [::1]:34232: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:03:20 handlers.go:28: [::1]:34234 GET: '/'
+[34m[INFO][0m	2021/09/26 23:03:20 handlers.go:28: [::1]:34234 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 23:03:20 handlers.go:28: [::1]:34234 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 23:03:20 handlers.go:28: [::1]:34234 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 23:03:20 handlers.go:28: [::1]:34234 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 23:03:20 handlers.go:28: [::1]:34234 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 23:03:20 handlers.go:28: [::1]:34234 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 23:03:20 handlers.go:28: [::1]:34234 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 23:03:20 server.go:3117: http: TLS handshake error from [::1]:34236: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:03:20 handlers.go:28: [::1]:34234 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 23:03:20 handlers.go:28: [::1]:34234 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 23:03:20 handlers.go:28: [::1]:34238 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 23:03:21 handlers.go:28: [::1]:34234 GET: '/api/exchange-currencies?point=100&token=tGNzJoEi'
+[34m[INFO][0m	2021/09/26 23:03:25 handlers.go:28: [::1]:34234 GET: '/api/exchange-subscribe?point=100&symbol=ETHBTC&token=tGNzJoEi'
+[31m[ERROR][0m	2021/09/26 23:03:25 h2_bundle.go:4215: http2: panic serving [::1]:34234: reflect: call of reflect.Value.NumField on ptr Value
+goroutine 117 [running]:
+net/http.(*http2serverConn).runHandler.func1(0xc0003baf80, 0xc000395f8e, 0xc000082a80)
+	/usr/local/go/src/net/http/h2_bundle.go:5716 +0x193
+panic(0x7805a0, 0xc000118fd8)
+	/usr/local/go/src/runtime/panic.go:965 +0x1b9
+reflect.flag.mustBe(...)
+	/usr/local/go/src/reflect/value.go:221
+reflect.Value.NumField(0x75f6a0, 0xc0003660c0, 0x16, 0x4)
+	/usr/local/go/src/reflect/value.go:1369 +0xc5
+binance/pkg.MakeArrFromStruct(0x75f6a0, 0xc0003660c0, 0x200, 0x75f6a0, 0xc0003660c0)
+	/home/miron/Documents/job tests/altf4/pkg/converter.go:15 +0x12a
+binance/pkg.(*Application).BinanceSubscribeCurrencie(0xc000128300, 0x85d600, 0xc0003baf80, 0xc000196200, 0x3, 0xc000512020, 0x9, 0xc000340144)
+	/home/miron/Documents/job tests/altf4/pkg/binance.go:268 +0x56c
+binance/pkg.(*Application).SubscribeCurrencie(0xc000128300, 0x85d600, 0xc0003baf80, 0xc000196200, 0x13, 0x9, 0x5, 0x4)
+	/home/miron/Documents/job tests/altf4/pkg/utils.go:87 +0x149
+binance/pkg.HApi(0x85d600, 0xc0003baf80, 0xc000196200, 0xc000e4c9f8)
+	/home/miron/Documents/job tests/altf4/pkg/api.go:34 +0x48
+binance/pkg.(*Application).HExSubscribe(...)
+	/home/miron/Documents/job tests/altf4/pkg/handlers.go:126
+net/http.HandlerFunc.ServeHTTP(0xc0002c2270, 0x85d600, 0xc0003baf80, 0xc000196200)
+	/usr/local/go/src/net/http/server.go:2049 +0x44
+net/http.(*ServeMux).ServeHTTP(0xc000146a00, 0x85d600, 0xc0003baf80, 0xc000196200)
+	/usr/local/go/src/net/http/server.go:2428 +0x1ad
+net/http.StripPrefix.func1(0x85d600, 0xc0003baf80, 0xc000196100)
+	/usr/local/go/src/net/http/server.go:2092 +0x234
+net/http.HandlerFunc.ServeHTTP(0xc000297e90, 0x85d600, 0xc0003baf80, 0xc000196100)
+	/usr/local/go/src/net/http/server.go:2049 +0x44
+net/http.(*ServeMux).ServeHTTP(0xc000146940, 0x85d600, 0xc0003baf80, 0xc000196100)
+	/usr/local/go/src/net/http/server.go:2428 +0x1ad
+binance/pkg.(*Application).AccessLogMiddleware.func1(0x85d600, 0xc0003baf80, 0xc000196100)
+	/home/miron/Documents/job tests/altf4/pkg/handlers.go:29 +0x1ac
+net/http.HandlerFunc.ServeHTTP(0xc000062b00, 0x85d600, 0xc0003baf80, 0xc000196100)
+	/usr/local/go/src/net/http/server.go:2049 +0x44
+binance/pkg.(*Application).SecureHeaderMiddleware.func1(0x85d600, 0xc0003baf80, 0xc000196100)
+	/home/miron/Documents/job tests/altf4/pkg/handlers.go:19 +0x5ac
+net/http.HandlerFunc.ServeHTTP(0xc0002bcdf8, 0x85d600, 0xc0003baf80, 0xc000196100)
+	/usr/local/go/src/net/http/server.go:2049 +0x44
+net/http.serverHandler.ServeHTTP(0xc0002c81c0, 0x85d600, 0xc0003baf80, 0xc000196100)
+	/usr/local/go/src/net/http/server.go:2867 +0xa3
+net/http.initALPNRequest.ServeHTTP(0x85dde0, 0xc0000ba2a0, 0xc0000f2000, 0xc0002c81c0, 0x85d600, 0xc0003baf80, 0xc000196100)
+	/usr/local/go/src/net/http/server.go:3439 +0x8d
+net/http.(*http2serverConn).runHandler(0xc000082a80, 0xc0003baf80, 0xc000196100, 0xc0003b4018)
+	/usr/local/go/src/net/http/h2_bundle.go:5723 +0x8b
+created by net/http.(*http2serverConn).processHeaders
+	/usr/local/go/src/net/http/h2_bundle.go:5453 +0x505
+[34m[INFO][0m	2021/09/26 23:03:48 init.go:35: loggers is done!
+[34m[INFO][0m	2021/09/26 23:03:51 main.go:22: initialization completed!
+[34m[INFO][0m	2021/09/26 23:03:51 main.go:47: server listening on port 4330
+[31m[ERROR][0m	2021/09/26 23:03:52 server.go:3117: http: TLS handshake error from [::1]:34514: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:03:52 handlers.go:28: [::1]:34516 GET: '/'
+[34m[INFO][0m	2021/09/26 23:03:52 handlers.go:28: [::1]:34516 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 23:03:52 handlers.go:28: [::1]:34516 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 23:03:52 handlers.go:28: [::1]:34516 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 23:03:52 handlers.go:28: [::1]:34516 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 23:03:52 handlers.go:28: [::1]:34516 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 23:03:52 handlers.go:28: [::1]:34516 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 23:03:52 handlers.go:28: [::1]:34516 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 23:03:52 server.go:3117: http: TLS handshake error from [::1]:34518: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:03:52 handlers.go:28: [::1]:34516 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 23:03:52 handlers.go:28: [::1]:34516 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 23:03:52 handlers.go:28: [::1]:34520 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 23:03:54 handlers.go:28: [::1]:34516 GET: '/api/exchange-currencies?point=100&token=Iz1t9sok'
+[34m[INFO][0m	2021/09/26 23:03:57 handlers.go:28: [::1]:34516 GET: '/api/exchange-subscribe?point=100&symbol=ETHBTC&token=Iz1t9sok'
+[31m[ERROR][0m	2021/09/26 23:03:58 h2_bundle.go:4215: http2: panic serving [::1]:34516: reflect: call of reflect.Value.NumField on ptr Value
+goroutine 24 [running]:
+net/http.(*http2serverConn).runHandler.func1(0xc00049a010, 0xc000347f8e, 0xc000082480)
+	/usr/local/go/src/net/http/h2_bundle.go:5716 +0x193
+panic(0x7805a0, 0xc000ee99e0)
+	/usr/local/go/src/runtime/panic.go:965 +0x1b9
+reflect.flag.mustBe(...)
+	/usr/local/go/src/reflect/value.go:221
+reflect.Value.NumField(0x75f6a0, 0xc0002e6180, 0x16, 0x4)
+	/usr/local/go/src/reflect/value.go:1369 +0xc5
+binance/pkg.MakeArrFromStruct(0x75f6a0, 0xc0002e6180, 0x200, 0x75f6a0, 0xc0002e6180)
+	/home/miron/Documents/job tests/altf4/pkg/converter.go:15 +0x12a
+binance/pkg.(*Application).BinanceSubscribeCurrencie(0xc00006c300, 0x85d600, 0xc00049a010, 0xc000150000, 0x3, 0xc0005924f0, 0x9, 0xc0003900c4)
+	/home/miron/Documents/job tests/altf4/pkg/binance.go:268 +0x56c
+binance/pkg.(*Application).SubscribeCurrencie(0xc00006c300, 0x85d600, 0xc00049a010, 0xc000150000, 0x13, 0x9, 0xc0000529a0, 0x4199f7)
+	/home/miron/Documents/job tests/altf4/pkg/utils.go:87 +0x149
+binance/pkg.HApi(0x85d600, 0xc00049a010, 0xc000150000, 0xc0000529f8)
+	/home/miron/Documents/job tests/altf4/pkg/api.go:34 +0x48
+binance/pkg.(*Application).HExSubscribe(...)
+	/home/miron/Documents/job tests/altf4/pkg/handlers.go:126
+net/http.HandlerFunc.ServeHTTP(0xc000265e20, 0x85d600, 0xc00049a010, 0xc000150000)
+	/usr/local/go/src/net/http/server.go:2049 +0x44
+net/http.(*ServeMux).ServeHTTP(0xc0000ceb00, 0x85d600, 0xc00049a010, 0xc000150000)
+	/usr/local/go/src/net/http/server.go:2428 +0x1ad
+net/http.StripPrefix.func1(0x85d600, 0xc00049a010, 0xc000394100)
+	/usr/local/go/src/net/http/server.go:2092 +0x234
+net/http.HandlerFunc.ServeHTTP(0xc000297770, 0x85d600, 0xc00049a010, 0xc000394100)
+	/usr/local/go/src/net/http/server.go:2049 +0x44
+net/http.(*ServeMux).ServeHTTP(0xc0000cea40, 0x85d600, 0xc00049a010, 0xc000394100)
+	/usr/local/go/src/net/http/server.go:2428 +0x1ad
+binance/pkg.(*Application).AccessLogMiddleware.func1(0x85d600, 0xc00049a010, 0xc000394100)
+	/home/miron/Documents/job tests/altf4/pkg/handlers.go:29 +0x1ac
+net/http.HandlerFunc.ServeHTTP(0xc000284a00, 0x85d600, 0xc00049a010, 0xc000394100)
+	/usr/local/go/src/net/http/server.go:2049 +0x44
+binance/pkg.(*Application).SecureHeaderMiddleware.func1(0x85d600, 0xc00049a010, 0xc000394100)
+	/home/miron/Documents/job tests/altf4/pkg/handlers.go:19 +0x5ac
+net/http.HandlerFunc.ServeHTTP(0xc0002d0648, 0x85d600, 0xc00049a010, 0xc000394100)
+	/usr/local/go/src/net/http/server.go:2049 +0x44
+net/http.serverHandler.ServeHTTP(0xc000257dc0, 0x85d600, 0xc00049a010, 0xc000394100)
+	/usr/local/go/src/net/http/server.go:2867 +0xa3
+net/http.initALPNRequest.ServeHTTP(0x85dde0, 0xc000297e30, 0xc000096a80, 0xc000257dc0, 0x85d600, 0xc00049a010, 0xc000394100)
+	/usr/local/go/src/net/http/server.go:3439 +0x8d
+net/http.(*http2serverConn).runHandler(0xc000082480, 0xc00049a010, 0xc000394100, 0xc000e4c000)
+	/usr/local/go/src/net/http/h2_bundle.go:5723 +0x8b
+created by net/http.(*http2serverConn).processHeaders
+	/usr/local/go/src/net/http/h2_bundle.go:5453 +0x505
+[34m[INFO][0m	2021/09/26 23:05:02 init.go:35: loggers is done!
+[34m[INFO][0m	2021/09/26 23:05:04 main.go:22: initialization completed!
+[34m[INFO][0m	2021/09/26 23:05:04 main.go:47: server listening on port 4330
+[31m[ERROR][0m	2021/09/26 23:05:06 server.go:3117: http: TLS handshake error from [::1]:35132: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:05:06 handlers.go:28: [::1]:35134 GET: '/'
+[34m[INFO][0m	2021/09/26 23:05:06 handlers.go:28: [::1]:35134 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 23:05:06 handlers.go:28: [::1]:35134 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 23:05:06 handlers.go:28: [::1]:35134 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 23:05:06 handlers.go:28: [::1]:35134 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 23:05:06 handlers.go:28: [::1]:35134 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 23:05:06 handlers.go:28: [::1]:35134 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 23:05:06 handlers.go:28: [::1]:35134 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 23:05:06 server.go:3117: http: TLS handshake error from [::1]:35136: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:05:06 handlers.go:28: [::1]:35134 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 23:05:06 handlers.go:28: [::1]:35134 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 23:05:06 handlers.go:28: [::1]:35138 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 23:05:07 handlers.go:28: [::1]:35134 GET: '/api/exchange-currencies?point=100&token=hbiURYq1'
+[34m[INFO][0m	2021/09/26 23:05:10 handlers.go:28: [::1]:35134 GET: '/api/exchange-subscribe?point=100&symbol=ETHBTC&token=hbiURYq1'
+[34m[INFO][0m	2021/09/26 23:05:48 init.go:35: loggers is done!
+[34m[INFO][0m	2021/09/26 23:05:50 main.go:22: initialization completed!
+[34m[INFO][0m	2021/09/26 23:05:50 main.go:47: server listening on port 4330
+[31m[ERROR][0m	2021/09/26 23:05:54 server.go:3117: http: TLS handshake error from [::1]:35532: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:05:54 handlers.go:28: [::1]:35534 GET: '/'
+[34m[INFO][0m	2021/09/26 23:05:54 handlers.go:28: [::1]:35534 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 23:05:54 handlers.go:28: [::1]:35534 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 23:05:54 handlers.go:28: [::1]:35534 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 23:05:54 handlers.go:28: [::1]:35534 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 23:05:54 handlers.go:28: [::1]:35534 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 23:05:54 handlers.go:28: [::1]:35534 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 23:05:54 handlers.go:28: [::1]:35534 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 23:05:54 server.go:3117: http: TLS handshake error from [::1]:35536: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:05:54 handlers.go:28: [::1]:35534 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 23:05:54 handlers.go:28: [::1]:35534 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 23:05:54 handlers.go:28: [::1]:35538 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 23:05:55 handlers.go:28: [::1]:35534 GET: '/api/exchange-currencies?point=100&token=ufUSeY7E'
+[34m[INFO][0m	2021/09/26 23:06:34 init.go:35: loggers is done!
+[34m[INFO][0m	2021/09/26 23:06:36 main.go:22: initialization completed!
+[34m[INFO][0m	2021/09/26 23:06:36 main.go:47: server listening on port 4330
+[31m[ERROR][0m	2021/09/26 23:06:40 server.go:3117: http: TLS handshake error from [::1]:35912: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:06:40 handlers.go:28: [::1]:35914 GET: '/'
+[34m[INFO][0m	2021/09/26 23:06:40 handlers.go:28: [::1]:35914 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 23:06:40 handlers.go:28: [::1]:35914 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 23:06:40 handlers.go:28: [::1]:35914 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 23:06:40 handlers.go:28: [::1]:35914 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 23:06:40 handlers.go:28: [::1]:35914 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 23:06:40 handlers.go:28: [::1]:35914 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 23:06:40 handlers.go:28: [::1]:35914 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 23:06:40 server.go:3117: http: TLS handshake error from [::1]:35916: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:06:40 handlers.go:28: [::1]:35914 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 23:06:40 handlers.go:28: [::1]:35914 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 23:06:40 handlers.go:28: [::1]:35918 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 23:06:40 handlers.go:28: [::1]:35914 GET: '/api/exchange-currencies?point=100&token=GU8KFpT3'
+[34m[INFO][0m	2021/09/26 23:06:42 handlers.go:28: [::1]:35914 GET: '/api/exchange-subscribe?point=100&symbol=ETHBTC&token=GU8KFpT3'
+[34m[INFO][0m	2021/09/26 23:07:15 init.go:35: loggers is done!
+[34m[INFO][0m	2021/09/26 23:07:17 main.go:22: initialization completed!
+[34m[INFO][0m	2021/09/26 23:07:17 main.go:47: server listening on port 4330
+[31m[ERROR][0m	2021/09/26 23:07:19 server.go:3117: http: TLS handshake error from [::1]:36240: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:07:19 handlers.go:28: [::1]:36242 GET: '/'
+[34m[INFO][0m	2021/09/26 23:07:19 handlers.go:28: [::1]:36242 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 23:07:19 handlers.go:28: [::1]:36242 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 23:07:19 handlers.go:28: [::1]:36242 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 23:07:19 handlers.go:28: [::1]:36242 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 23:07:19 handlers.go:28: [::1]:36242 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 23:07:19 handlers.go:28: [::1]:36242 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 23:07:19 handlers.go:28: [::1]:36242 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 23:07:19 server.go:3117: http: TLS handshake error from [::1]:36244: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:07:19 handlers.go:28: [::1]:36242 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 23:07:19 handlers.go:28: [::1]:36242 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 23:07:19 handlers.go:28: [::1]:36246 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 23:07:19 handlers.go:28: [::1]:36242 GET: '/api/exchange-currencies?point=100&token=aLbOjau6'
+[34m[INFO][0m	2021/09/26 23:07:23 handlers.go:28: [::1]:36242 GET: '/api/exchange-subscribe?point=100&symbol=ETHBTC&token=aLbOjau6'
+[34m[INFO][0m	2021/09/26 23:07:35 init.go:35: loggers is done!
+[34m[INFO][0m	2021/09/26 23:07:37 main.go:22: initialization completed!
+[34m[INFO][0m	2021/09/26 23:07:37 main.go:47: server listening on port 4330
+[31m[ERROR][0m	2021/09/26 23:07:39 server.go:3117: http: TLS handshake error from [::1]:36416: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:07:39 handlers.go:28: [::1]:36418 GET: '/'
+[34m[INFO][0m	2021/09/26 23:07:39 handlers.go:28: [::1]:36418 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 23:07:39 handlers.go:28: [::1]:36418 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 23:07:39 handlers.go:28: [::1]:36418 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 23:07:39 handlers.go:28: [::1]:36418 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 23:07:39 handlers.go:28: [::1]:36418 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 23:07:39 handlers.go:28: [::1]:36418 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 23:07:39 handlers.go:28: [::1]:36418 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 23:07:39 server.go:3117: http: TLS handshake error from [::1]:36420: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:07:39 handlers.go:28: [::1]:36418 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 23:07:39 handlers.go:28: [::1]:36418 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 23:07:39 handlers.go:28: [::1]:36422 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 23:07:39 handlers.go:28: [::1]:36418 GET: '/api/exchange-currencies?point=100&token=LNMQL8PC'
+[34m[INFO][0m	2021/09/26 23:07:41 handlers.go:28: [::1]:36418 GET: '/api/exchange-subscribe?point=100&symbol=ETHBTC&token=LNMQL8PC'
+[34m[INFO][0m	2021/09/26 23:08:37 init.go:35: loggers is done!
+[34m[INFO][0m	2021/09/26 23:08:39 main.go:22: initialization completed!
+[34m[INFO][0m	2021/09/26 23:08:39 main.go:47: server listening on port 4330
+[31m[ERROR][0m	2021/09/26 23:08:42 server.go:3117: http: TLS handshake error from [::1]:36936: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:08:42 handlers.go:28: [::1]:36938 GET: '/'
+[34m[INFO][0m	2021/09/26 23:08:42 handlers.go:28: [::1]:36938 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 23:08:42 handlers.go:28: [::1]:36938 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 23:08:42 handlers.go:28: [::1]:36938 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 23:08:42 handlers.go:28: [::1]:36938 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 23:08:42 handlers.go:28: [::1]:36938 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 23:08:42 handlers.go:28: [::1]:36938 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 23:08:42 handlers.go:28: [::1]:36938 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 23:08:42 server.go:3117: http: TLS handshake error from [::1]:36940: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:08:42 handlers.go:28: [::1]:36938 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 23:08:42 handlers.go:28: [::1]:36938 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 23:08:42 handlers.go:28: [::1]:36942 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 23:08:42 handlers.go:28: [::1]:36938 GET: '/api/exchange-currencies?point=100&token=PZL1sslx'
+[34m[INFO][0m	2021/09/26 23:08:44 handlers.go:28: [::1]:36938 GET: '/api/exchange-subscribe?point=100&symbol=ETHBTC&token=PZL1sslx'
+[34m[INFO][0m	2021/09/26 23:08:54 init.go:35: loggers is done!
+[34m[INFO][0m	2021/09/26 23:08:55 main.go:22: initialization completed!
+[34m[INFO][0m	2021/09/26 23:08:55 main.go:47: server listening on port 4330
+[31m[ERROR][0m	2021/09/26 23:08:58 server.go:3117: http: TLS handshake error from [::1]:37088: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:08:58 handlers.go:28: [::1]:37090 GET: '/'
+[34m[INFO][0m	2021/09/26 23:08:59 handlers.go:28: [::1]:37090 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 23:08:59 handlers.go:28: [::1]:37090 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 23:08:59 handlers.go:28: [::1]:37090 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 23:08:59 handlers.go:28: [::1]:37090 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 23:08:59 handlers.go:28: [::1]:37090 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 23:08:59 handlers.go:28: [::1]:37090 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 23:08:59 handlers.go:28: [::1]:37090 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 23:08:59 server.go:3117: http: TLS handshake error from [::1]:37092: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:08:59 handlers.go:28: [::1]:37090 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 23:08:59 handlers.go:28: [::1]:37090 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 23:08:59 handlers.go:28: [::1]:37094 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 23:08:59 handlers.go:28: [::1]:37090 GET: '/api/exchange-currencies?point=100&token=zkE4oeta'
+[34m[INFO][0m	2021/09/26 23:09:02 handlers.go:28: [::1]:37090 GET: '/api/exchange-subscribe?point=100&symbol=ETHBTC&token=zkE4oeta'
+[34m[INFO][0m	2021/09/26 23:09:39 init.go:35: loggers is done!
+[34m[INFO][0m	2021/09/26 23:09:41 main.go:22: initialization completed!
+[34m[INFO][0m	2021/09/26 23:09:41 main.go:47: server listening on port 4330
+[31m[ERROR][0m	2021/09/26 23:09:43 server.go:3117: http: TLS handshake error from [::1]:37458: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:09:43 handlers.go:28: [::1]:37460 GET: '/'
+[34m[INFO][0m	2021/09/26 23:09:43 handlers.go:28: [::1]:37460 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 23:09:43 handlers.go:28: [::1]:37460 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 23:09:43 handlers.go:28: [::1]:37460 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 23:09:43 handlers.go:28: [::1]:37460 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 23:09:43 handlers.go:28: [::1]:37460 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 23:09:43 handlers.go:28: [::1]:37460 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 23:09:43 handlers.go:28: [::1]:37460 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 23:09:43 server.go:3117: http: TLS handshake error from [::1]:37462: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:09:43 handlers.go:28: [::1]:37460 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 23:09:43 handlers.go:28: [::1]:37460 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 23:09:43 handlers.go:28: [::1]:37464 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 23:09:44 handlers.go:28: [::1]:37460 GET: '/api/exchange-currencies?point=100&token=iZPbdo0Z'
+[34m[INFO][0m	2021/09/26 23:09:47 handlers.go:28: [::1]:37460 GET: '/api/exchange-subscribe?point=100&symbol=ETHBTC&token=iZPbdo0Z'
+[31m[ERROR][0m	2021/09/26 23:09:47 h2_bundle.go:4215: http2: panic serving [::1]:37460: reflect: call of reflect.Value.NumField on ptr Value
+goroutine 226 [running]:
+net/http.(*http2serverConn).runHandler.func1(0xc000538018, 0xc0005a1f8e, 0xc000082d80)
+	/usr/local/go/src/net/http/h2_bundle.go:5716 +0x193
+panic(0x7805a0, 0xc00000eb70)
+	/usr/local/go/src/runtime/panic.go:965 +0x1b9
+reflect.flag.mustBe(...)
+	/usr/local/go/src/reflect/value.go:221
+reflect.Value.NumField(0x75f6a0, 0xc000e560c0, 0x16, 0x1)
+	/usr/local/go/src/reflect/value.go:1369 +0xc5
+binance/pkg.MakeArrFromStruct(0x75f6a0, 0xc000e560c0, 0x500, 0x75f6a0, 0xc000e560c0)
+	/home/miron/Documents/job tests/altf4/pkg/converter.go:14 +0x12a
+binance/pkg.(*Application).BinanceSubscribeCurrencie(0xc0000c02a0, 0x85d5c0, 0xc000538018, 0xc000186200, 0x3, 0xc00034a110, 0x9, 0xc0000d41c4)
+	/home/miron/Documents/job tests/altf4/pkg/binance.go:268 +0x56c
+binance/pkg.(*Application).SubscribeCurrencie(0xc0000c02a0, 0x85d5c0, 0xc000538018, 0xc000186200, 0x13, 0x9, 0x5, 0x4)
+	/home/miron/Documents/job tests/altf4/pkg/utils.go:87 +0x149
+binance/pkg.HApi(0x85d5c0, 0xc000538018, 0xc000186200, 0xc0005a99f8)
+	/home/miron/Documents/job tests/altf4/pkg/api.go:34 +0x48
+binance/pkg.(*Application).HExSubscribe(...)
+	/home/miron/Documents/job tests/altf4/pkg/handlers.go:126
+net/http.HandlerFunc.ServeHTTP(0xc00024bcf0, 0x85d5c0, 0xc000538018, 0xc000186200)
+	/usr/local/go/src/net/http/server.go:2049 +0x44
+net/http.(*ServeMux).ServeHTTP(0xc00002aac0, 0x85d5c0, 0xc000538018, 0xc000186200)
+	/usr/local/go/src/net/http/server.go:2428 +0x1ad
+net/http.StripPrefix.func1(0x85d5c0, 0xc000538018, 0xc000186100)
+	/usr/local/go/src/net/http/server.go:2092 +0x234
+net/http.HandlerFunc.ServeHTTP(0xc000285500, 0x85d5c0, 0xc000538018, 0xc000186100)
+	/usr/local/go/src/net/http/server.go:2049 +0x44
+net/http.(*ServeMux).ServeHTTP(0xc00002aa00, 0x85d5c0, 0xc000538018, 0xc000186100)
+	/usr/local/go/src/net/http/server.go:2428 +0x1ad
+binance/pkg.(*Application).AccessLogMiddleware.func1(0x85d5c0, 0xc000538018, 0xc000186100)
+	/home/miron/Documents/job tests/altf4/pkg/handlers.go:29 +0x1ac
+net/http.HandlerFunc.ServeHTTP(0xc000062940, 0x85d5c0, 0xc000538018, 0xc000186100)
+	/usr/local/go/src/net/http/server.go:2049 +0x44
+binance/pkg.(*Application).SecureHeaderMiddleware.func1(0x85d5c0, 0xc000538018, 0xc000186100)
+	/home/miron/Documents/job tests/altf4/pkg/handlers.go:19 +0x5ac
+net/http.HandlerFunc.ServeHTTP(0xc0002a4348, 0x85d5c0, 0xc000538018, 0xc000186100)
+	/usr/local/go/src/net/http/server.go:2049 +0x44
+net/http.serverHandler.ServeHTTP(0xc000245ce0, 0x85d5c0, 0xc000538018, 0xc000186100)
+	/usr/local/go/src/net/http/server.go:2867 +0xa3
+net/http.initALPNRequest.ServeHTTP(0x85dda0, 0xc00012c000, 0xc00007aa80, 0xc000245ce0, 0x85d5c0, 0xc000538018, 0xc000186100)
+	/usr/local/go/src/net/http/server.go:3439 +0x8d
+net/http.(*http2serverConn).runHandler(0xc000082d80, 0xc000538018, 0xc000186100, 0xc0001c6000)
+	/usr/local/go/src/net/http/h2_bundle.go:5723 +0x8b
+created by net/http.(*http2serverConn).processHeaders
+	/usr/local/go/src/net/http/h2_bundle.go:5453 +0x505
+[34m[INFO][0m	2021/09/26 23:13:19 init.go:35: loggers is done!
+[31m[ERROR][0m	2021/09/26 23:13:24 binance.go:69: dial tcp: i/o timeout
+[34m[INFO][0m	2021/09/26 23:13:35 init.go:35: loggers is done!
+[34m[INFO][0m	2021/09/26 23:13:38 main.go:22: initialization completed!
+[34m[INFO][0m	2021/09/26 23:13:38 main.go:47: server listening on port 4330
+[31m[ERROR][0m	2021/09/26 23:13:40 server.go:3117: http: TLS handshake error from [::1]:39408: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:13:40 handlers.go:28: [::1]:39410 GET: '/'
+[34m[INFO][0m	2021/09/26 23:13:40 handlers.go:28: [::1]:39410 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 23:13:40 handlers.go:28: [::1]:39410 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 23:13:40 handlers.go:28: [::1]:39410 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 23:13:40 handlers.go:28: [::1]:39410 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 23:13:40 handlers.go:28: [::1]:39410 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 23:13:40 handlers.go:28: [::1]:39410 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 23:13:40 handlers.go:28: [::1]:39410 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 23:13:40 server.go:3117: http: TLS handshake error from [::1]:39412: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:13:40 handlers.go:28: [::1]:39410 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 23:13:40 handlers.go:28: [::1]:39410 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 23:13:40 handlers.go:28: [::1]:39414 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 23:13:46 handlers.go:28: [::1]:39410 GET: '/api/exchange-currencies?point=100&token=qdN8bLY7'
+[34m[INFO][0m	2021/09/26 23:13:51 handlers.go:28: [::1]:39410 GET: '/api/exchange-subscribe?point=100&symbol=ETHBTC&token=qdN8bLY7'
+[31m[ERROR][0m	2021/09/26 23:13:52 h2_bundle.go:4215: http2: panic serving [::1]:39410: reflect: call of reflect.Value.NumField on ptr Value
+goroutine 165 [running]:
+net/http.(*http2serverConn).runHandler.func1(0xc000094038, 0xc000399f8e, 0xc000480480)
+	/usr/local/go/src/net/http/h2_bundle.go:5716 +0x193
+panic(0x7805e0, 0xc000492618)
+	/usr/local/go/src/runtime/panic.go:965 +0x1b9
+reflect.flag.mustBe(...)
+	/usr/local/go/src/reflect/value.go:221
+reflect.Value.NumField(0x75f6a0, 0xc0002e6200, 0x16, 0x1)
+	/usr/local/go/src/reflect/value.go:1369 +0xc5
+binance/pkg.MakeArrFromStruct(0x75f6a0, 0xc0002e6200, 0x500, 0x75f6a0, 0xc0002e6200)
+	/home/miron/Documents/job tests/altf4/pkg/converter.go:14 +0x12a
+binance/pkg.(*Application).BinanceSubscribeCurrencie(0xc00006c300, 0x85d600, 0xc000094038, 0xc00047e000, 0x3, 0xc000496510, 0x9, 0xc000020344)
+	/home/miron/Documents/job tests/altf4/pkg/binance.go:268 +0x56c
+binance/pkg.(*Application).SubscribeCurrencie(0xc00006c300, 0x85d600, 0xc000094038, 0xc00047e000, 0x13, 0x9, 0xc00022a9a0, 0x4199f7)
+	/home/miron/Documents/job tests/altf4/pkg/utils.go:87 +0x149
+binance/pkg.HApi(0x85d600, 0xc000094038, 0xc00047e000, 0xc00022a9f8)
+	/home/miron/Documents/job tests/altf4/pkg/api.go:34 +0x48
+binance/pkg.(*Application).HExSubscribe(...)
+	/home/miron/Documents/job tests/altf4/pkg/handlers.go:126
+net/http.HandlerFunc.ServeHTTP(0xc00023be30, 0x85d600, 0xc000094038, 0xc00047e000)
+	/usr/local/go/src/net/http/server.go:2049 +0x44
+net/http.(*ServeMux).ServeHTTP(0xc0000ceb00, 0x85d600, 0xc000094038, 0xc00047e000)
+	/usr/local/go/src/net/http/server.go:2428 +0x1ad
+net/http.StripPrefix.func1(0x85d600, 0xc000094038, 0xc0000b0200)
+	/usr/local/go/src/net/http/server.go:2092 +0x234
+net/http.HandlerFunc.ServeHTTP(0xc0002617a0, 0x85d600, 0xc000094038, 0xc0000b0200)
+	/usr/local/go/src/net/http/server.go:2049 +0x44
+net/http.(*ServeMux).ServeHTTP(0xc0000cea40, 0x85d600, 0xc000094038, 0xc0000b0200)
+	/usr/local/go/src/net/http/server.go:2428 +0x1ad
+binance/pkg.(*Application).AccessLogMiddleware.func1(0x85d600, 0xc000094038, 0xc0000b0200)
+	/home/miron/Documents/job tests/altf4/pkg/handlers.go:29 +0x1ac
+net/http.HandlerFunc.ServeHTTP(0xc0000a2a00, 0x85d600, 0xc000094038, 0xc0000b0200)
+	/usr/local/go/src/net/http/server.go:2049 +0x44
+binance/pkg.(*Application).SecureHeaderMiddleware.func1(0x85d600, 0xc000094038, 0xc0000b0200)
+	/home/miron/Documents/job tests/altf4/pkg/handlers.go:19 +0x5ac
+net/http.HandlerFunc.ServeHTTP(0xc000284648, 0x85d600, 0xc000094038, 0xc0000b0200)
+	/usr/local/go/src/net/http/server.go:2049 +0x44
+net/http.serverHandler.ServeHTTP(0xc000233dc0, 0x85d600, 0xc000094038, 0xc0000b0200)
+	/usr/local/go/src/net/http/server.go:2867 +0xa3
+net/http.initALPNRequest.ServeHTTP(0x85dde0, 0xc000498000, 0xc000096a80, 0xc000233dc0, 0x85d600, 0xc000094038, 0xc0000b0200)
+	/usr/local/go/src/net/http/server.go:3439 +0x8d
+net/http.(*http2serverConn).runHandler(0xc000480480, 0xc000094038, 0xc0000b0200, 0xc0000abb18)
+	/usr/local/go/src/net/http/h2_bundle.go:5723 +0x8b
+created by net/http.(*http2serverConn).processHeaders
+	/usr/local/go/src/net/http/h2_bundle.go:5453 +0x505
+[34m[INFO][0m	2021/09/26 23:15:37 init.go:35: loggers is done!
+[34m[INFO][0m	2021/09/26 23:15:39 main.go:22: initialization completed!
+[34m[INFO][0m	2021/09/26 23:15:39 main.go:47: server listening on port 4330
+[31m[ERROR][0m	2021/09/26 23:15:41 server.go:3117: http: TLS handshake error from [::1]:40410: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:15:41 handlers.go:28: [::1]:40412 GET: '/'
+[34m[INFO][0m	2021/09/26 23:15:41 handlers.go:28: [::1]:40412 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 23:15:41 handlers.go:28: [::1]:40412 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 23:15:41 handlers.go:28: [::1]:40412 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 23:15:41 handlers.go:28: [::1]:40412 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 23:15:41 handlers.go:28: [::1]:40412 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 23:15:41 handlers.go:28: [::1]:40412 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 23:15:41 handlers.go:28: [::1]:40412 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 23:15:41 server.go:3117: http: TLS handshake error from [::1]:40414: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:15:41 handlers.go:28: [::1]:40412 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 23:15:41 handlers.go:28: [::1]:40412 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 23:15:41 handlers.go:28: [::1]:40416 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 23:15:42 handlers.go:28: [::1]:40412 GET: '/api/exchange-currencies?point=100&token=S5qT2egH'
+[34m[INFO][0m	2021/09/26 23:16:01 init.go:35: loggers is done!
+[34m[INFO][0m	2021/09/26 23:16:03 main.go:22: initialization completed!
+[34m[INFO][0m	2021/09/26 23:16:03 main.go:47: server listening on port 4330
+[31m[ERROR][0m	2021/09/26 23:16:04 server.go:3117: http: TLS handshake error from [::1]:40620: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:16:04 handlers.go:28: [::1]:40622 GET: '/'
+[34m[INFO][0m	2021/09/26 23:16:04 handlers.go:28: [::1]:40622 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 23:16:04 handlers.go:28: [::1]:40622 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 23:16:04 handlers.go:28: [::1]:40622 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 23:16:04 handlers.go:28: [::1]:40622 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 23:16:04 handlers.go:28: [::1]:40622 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 23:16:04 handlers.go:28: [::1]:40622 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 23:16:04 handlers.go:28: [::1]:40622 GET: '/assets/js/utils.js'
+[34m[INFO][0m	2021/09/26 23:16:04 handlers.go:28: [::1]:40622 GET: '/api/exchange-points?'
+[31m[ERROR][0m	2021/09/26 23:16:04 server.go:3117: http: TLS handshake error from [::1]:40624: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:16:04 handlers.go:28: [::1]:40622 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 23:16:04 handlers.go:28: [::1]:40626 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 23:16:05 handlers.go:28: [::1]:40622 GET: '/api/exchange-currencies?point=100&token=p41qAnwr'
+[34m[INFO][0m	2021/09/26 23:16:07 handlers.go:28: [::1]:40622 GET: '/api/exchange-subscribe?point=100&symbol=ETHBTC&token=p41qAnwr'
+[31m[ERROR][0m	2021/09/26 23:16:08 h2_bundle.go:4215: http2: panic serving [::1]:40622: reflect: call of reflect.Value.NumField on ptr Value
+goroutine 61 [running]:
+net/http.(*http2serverConn).runHandler.func1(0xc00034c018, 0xc0004d3f8e, 0xc00050a300)
+	/usr/local/go/src/net/http/h2_bundle.go:5716 +0x193
+panic(0x7805a0, 0xc0002d4678)
+	/usr/local/go/src/runtime/panic.go:965 +0x1b9
+reflect.flag.mustBe(...)
+	/usr/local/go/src/reflect/value.go:221
+reflect.Value.NumField(0x75f6a0, 0xc00030e280, 0x16, 0x1)
+	/usr/local/go/src/reflect/value.go:1369 +0xc5
+binance/pkg.MakeArrFromStruct(0x75f6a0, 0xc00030e280, 0x500, 0x75f6a0, 0xc00030e280)
+	/home/miron/Documents/job tests/altf4/pkg/converter.go:18 +0x24a
+binance/pkg.(*Application).BinanceSubscribeCurrencie(0xc00006c300, 0x85d600, 0xc00034c018, 0xc0000b0000, 0x3, 0xc000492500, 0x9, 0xc000020304)
+	/home/miron/Documents/job tests/altf4/pkg/binance.go:268 +0x56c
+binance/pkg.(*Application).SubscribeCurrencie(0xc00006c300, 0x85d600, 0xc00034c018, 0xc0000b0000, 0x13, 0x9, 0xc000fd89a0, 0x4199f7)
+	/home/miron/Documents/job tests/altf4/pkg/utils.go:87 +0x149
+binance/pkg.HApi(0x85d600, 0xc00034c018, 0xc0000b0000, 0xc000fd89f8)
+	/home/miron/Documents/job tests/altf4/pkg/api.go:34 +0x48
+binance/pkg.(*Application).HExSubscribe(...)
+	/home/miron/Documents/job tests/altf4/pkg/handlers.go:126
+net/http.HandlerFunc.ServeHTTP(0xc00025de20, 0x85d600, 0xc00034c018, 0xc0000b0000)
+	/usr/local/go/src/net/http/server.go:2049 +0x44
+net/http.(*ServeMux).ServeHTTP(0xc0000ceb00, 0x85d600, 0xc00034c018, 0xc0000b0000)
+	/usr/local/go/src/net/http/server.go:2428 +0x1ad
+net/http.StripPrefix.func1(0x85d600, 0xc00034c018, 0xc00053a100)
+	/usr/local/go/src/net/http/server.go:2092 +0x234
+net/http.HandlerFunc.ServeHTTP(0xc000287770, 0x85d600, 0xc00034c018, 0xc00053a100)
+	/usr/local/go/src/net/http/server.go:2049 +0x44
+net/http.(*ServeMux).ServeHTTP(0xc0000cea40, 0x85d600, 0xc00034c018, 0xc00053a100)
+	/usr/local/go/src/net/http/server.go:2428 +0x1ad
+binance/pkg.(*Application).AccessLogMiddleware.func1(0x85d600, 0xc00034c018, 0xc00053a100)
+	/home/miron/Documents/job tests/altf4/pkg/handlers.go:29 +0x1ac
+net/http.HandlerFunc.ServeHTTP(0xc00027aa00, 0x85d600, 0xc00034c018, 0xc00053a100)
+	/usr/local/go/src/net/http/server.go:2049 +0x44
+binance/pkg.(*Application).SecureHeaderMiddleware.func1(0x85d600, 0xc00034c018, 0xc00053a100)
+	/home/miron/Documents/job tests/altf4/pkg/handlers.go:19 +0x5ac
+net/http.HandlerFunc.ServeHTTP(0xc0002ae618, 0x85d600, 0xc00034c018, 0xc00053a100)
+	/usr/local/go/src/net/http/server.go:2049 +0x44
+net/http.serverHandler.ServeHTTP(0xc00024fdc0, 0x85d600, 0xc00034c018, 0xc00053a100)
+	/usr/local/go/src/net/http/server.go:2867 +0xa3
+net/http.initALPNRequest.ServeHTTP(0x85dde0, 0xc00051c000, 0xc000096a80, 0xc00024fdc0, 0x85d600, 0xc00034c018, 0xc00053a100)
+	/usr/local/go/src/net/http/server.go:3439 +0x8d
+net/http.(*http2serverConn).runHandler(0xc00050a300, 0xc00034c018, 0xc00053a100, 0xc000288000)
+	/usr/local/go/src/net/http/h2_bundle.go:5723 +0x8b
+created by net/http.(*http2serverConn).processHeaders
+	/usr/local/go/src/net/http/h2_bundle.go:5453 +0x505
+[34m[INFO][0m	2021/09/26 23:16:50 init.go:35: loggers is done!
+[34m[INFO][0m	2021/09/26 23:16:52 main.go:22: initialization completed!
+[34m[INFO][0m	2021/09/26 23:16:52 main.go:47: server listening on port 4330
+[31m[ERROR][0m	2021/09/26 23:16:54 server.go:3117: http: TLS handshake error from [::1]:41038: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:16:54 handlers.go:28: [::1]:41040 GET: '/'
+[34m[INFO][0m	2021/09/26 23:16:54 handlers.go:28: [::1]:41040 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 23:16:54 handlers.go:28: [::1]:41040 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 23:16:54 handlers.go:28: [::1]:41040 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 23:16:54 handlers.go:28: [::1]:41040 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 23:16:54 handlers.go:28: [::1]:41040 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 23:16:54 handlers.go:28: [::1]:41040 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 23:16:54 handlers.go:28: [::1]:41040 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 23:16:54 server.go:3117: http: TLS handshake error from [::1]:41042: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:16:54 handlers.go:28: [::1]:41040 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 23:16:54 handlers.go:28: [::1]:41040 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 23:16:54 handlers.go:28: [::1]:41044 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 23:16:55 handlers.go:28: [::1]:41040 GET: '/api/exchange-currencies?point=100&token=siDdF6MJ'
+[34m[INFO][0m	2021/09/26 23:17:00 handlers.go:28: [::1]:41040 GET: '/api/exchange-subscribe?point=100&symbol=ETHBTC&token=siDdF6MJ'
+[31m[ERROR][0m	2021/09/26 23:17:00 h2_bundle.go:4215: http2: panic serving [::1]:41040: reflect: call of reflect.Value.NumField on ptr Value
+goroutine 103 [running]:
+net/http.(*http2serverConn).runHandler.func1(0xc0004a2000, 0xc000401f8e, 0xc000082900)
+	/usr/local/go/src/net/http/h2_bundle.go:5716 +0x193
+panic(0x7805a0, 0xc0000fe270)
+	/usr/local/go/src/runtime/panic.go:965 +0x1b9
+reflect.flag.mustBe(...)
+	/usr/local/go/src/reflect/value.go:221
+reflect.Value.NumField(0x75f6a0, 0xc00035c000, 0x16, 0x1)
+	/usr/local/go/src/reflect/value.go:1369 +0xc5
+binance/pkg.MakeArrFromStruct(0x75f6a0, 0xc00035c000, 0x500, 0x75f6a0, 0xc00035c000)
+	/home/miron/Documents/job tests/altf4/pkg/converter.go:18 +0x24a
+binance/pkg.(*Application).BinanceSubscribeCurrencie(0xc00006c300, 0x85d5e0, 0xc0004a2000, 0xc000150100, 0x3, 0xc00051a510, 0x9, 0xc000496044)
+	/home/miron/Documents/job tests/altf4/pkg/binance.go:267 +0x56c
+binance/pkg.(*Application).SubscribeCurrencie(0xc00006c300, 0x85d5e0, 0xc0004a2000, 0xc000150100, 0x13, 0x9, 0x5, 0x4)
+	/home/miron/Documents/job tests/altf4/pkg/utils.go:87 +0x149
+binance/pkg.HApi(0x85d5e0, 0xc0004a2000, 0xc000150100, 0xc0000529f8)
+	/home/miron/Documents/job tests/altf4/pkg/api.go:34 +0x48
+binance/pkg.(*Application).HExSubscribe(...)
+	/home/miron/Documents/job tests/altf4/pkg/handlers.go:126
+net/http.HandlerFunc.ServeHTTP(0xc00023de10, 0x85d5e0, 0xc0004a2000, 0xc000150100)
+	/usr/local/go/src/net/http/server.go:2049 +0x44
+net/http.(*ServeMux).ServeHTTP(0xc0004b0980, 0x85d5e0, 0xc0004a2000, 0xc000150100)
+	/usr/local/go/src/net/http/server.go:2428 +0x1ad
+net/http.StripPrefix.func1(0x85d5e0, 0xc0004a2000, 0xc00013e100)
+	/usr/local/go/src/net/http/server.go:2092 +0x234
+net/http.HandlerFunc.ServeHTTP(0xc0002657a0, 0x85d5e0, 0xc0004a2000, 0xc00013e100)
+	/usr/local/go/src/net/http/server.go:2049 +0x44
+net/http.(*ServeMux).ServeHTTP(0xc0004b08c0, 0x85d5e0, 0xc0004a2000, 0xc00013e100)
+	/usr/local/go/src/net/http/server.go:2428 +0x1ad
+binance/pkg.(*Application).AccessLogMiddleware.func1(0x85d5e0, 0xc0004a2000, 0xc00013e100)
+	/home/miron/Documents/job tests/altf4/pkg/handlers.go:29 +0x1ac
+net/http.HandlerFunc.ServeHTTP(0xc0000a2a00, 0x85d5e0, 0xc0004a2000, 0xc00013e100)
+	/usr/local/go/src/net/http/server.go:2049 +0x44
+binance/pkg.(*Application).SecureHeaderMiddleware.func1(0x85d5e0, 0xc0004a2000, 0xc00013e100)
+	/home/miron/Documents/job tests/altf4/pkg/handlers.go:19 +0x5ac
+net/http.HandlerFunc.ServeHTTP(0xc000286648, 0x85d5e0, 0xc0004a2000, 0xc00013e100)
+	/usr/local/go/src/net/http/server.go:2049 +0x44
+net/http.serverHandler.ServeHTTP(0xc000235dc0, 0x85d5e0, 0xc0004a2000, 0xc00013e100)
+	/usr/local/go/src/net/http/server.go:2867 +0xa3
+net/http.initALPNRequest.ServeHTTP(0x85ddc0, 0xc00051c000, 0xc000096a80, 0xc000235dc0, 0x85d5e0, 0xc0004a2000, 0xc00013e100)
+	/usr/local/go/src/net/http/server.go:3439 +0x8d
+net/http.(*http2serverConn).runHandler(0xc000082900, 0xc0004a2000, 0xc00013e100, 0xc0000fe000)
+	/usr/local/go/src/net/http/h2_bundle.go:5723 +0x8b
+created by net/http.(*http2serverConn).processHeaders
+	/usr/local/go/src/net/http/h2_bundle.go:5453 +0x505
+[34m[INFO][0m	2021/09/26 23:17:56 init.go:35: loggers is done!
+[34m[INFO][0m	2021/09/26 23:17:58 main.go:22: initialization completed!
+[34m[INFO][0m	2021/09/26 23:17:58 main.go:47: server listening on port 4330
+[31m[ERROR][0m	2021/09/26 23:18:00 server.go:3117: http: TLS handshake error from [::1]:41594: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:18:00 handlers.go:28: [::1]:41596 GET: '/'
+[34m[INFO][0m	2021/09/26 23:18:00 handlers.go:28: [::1]:41596 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 23:18:00 handlers.go:28: [::1]:41596 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 23:18:00 handlers.go:28: [::1]:41596 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 23:18:00 handlers.go:28: [::1]:41596 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 23:18:00 handlers.go:28: [::1]:41596 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 23:18:00 handlers.go:28: [::1]:41596 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 23:18:00 handlers.go:28: [::1]:41596 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 23:18:00 server.go:3117: http: TLS handshake error from [::1]:41598: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:18:00 handlers.go:28: [::1]:41596 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 23:18:00 handlers.go:28: [::1]:41596 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 23:18:00 handlers.go:28: [::1]:41600 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 23:18:01 handlers.go:28: [::1]:41596 GET: '/api/exchange-currencies?point=100&token=RB6ICR7g'
+[34m[INFO][0m	2021/09/26 23:18:04 handlers.go:28: [::1]:41596 GET: '/api/exchange-subscribe?point=100&symbol=ETHBTC&token=RB6ICR7g'
+[31m[ERROR][0m	2021/09/26 23:18:05 h2_bundle.go:4215: http2: panic serving [::1]:41596: reflect: call of reflect.Value.NumField on ptr Value
+goroutine 41 [running]:
+net/http.(*http2serverConn).runHandler.func1(0xc000494000, 0xc0003a9f8e, 0xc000484900)
+	/usr/local/go/src/net/http/h2_bundle.go:5716 +0x193
+panic(0x7815a0, 0xc000497c08)
+	/usr/local/go/src/runtime/panic.go:965 +0x1b9
+reflect.flag.mustBe(...)
+	/usr/local/go/src/reflect/value.go:221
+reflect.Value.NumField(0x7606a0, 0xc00010e140, 0x16, 0x1)
+	/usr/local/go/src/reflect/value.go:1369 +0xc5
+binance/pkg.MakeArrFromStruct(0x7606a0, 0xc00010e140, 0x500, 0x7606a0, 0xc00010e140)
+	/home/miron/Documents/job tests/altf4/pkg/converter.go:18 +0x24a
+binance/pkg.(*Application).BinanceSubscribeCurrencie(0xc00006c300, 0x85e600, 0xc000494000, 0xc0004b8200, 0x3, 0xc00052a4f0, 0x9, 0xc0004a4044)
+	/home/miron/Documents/job tests/altf4/pkg/binance.go:267 +0x5b6
+binance/pkg.(*Application).SubscribeCurrencie(0xc00006c300, 0x85e600, 0xc000494000, 0xc0004b8200, 0x13, 0x9, 0x5, 0x4)
+	/home/miron/Documents/job tests/altf4/pkg/utils.go:87 +0x149
+binance/pkg.HApi(0x85e600, 0xc000494000, 0xc0004b8200, 0xc0004269f8)
+	/home/miron/Documents/job tests/altf4/pkg/api.go:34 +0x48
+binance/pkg.(*Application).HExSubscribe(...)
+	/home/miron/Documents/job tests/altf4/pkg/handlers.go:126
+net/http.HandlerFunc.ServeHTTP(0xc00047a0d0, 0x85e600, 0xc000494000, 0xc0004b8200)
+	/usr/local/go/src/net/http/server.go:2049 +0x44
+net/http.(*ServeMux).ServeHTTP(0xc0002e6140, 0x85e600, 0xc000494000, 0xc0004b8200)
+	/usr/local/go/src/net/http/server.go:2428 +0x1ad
+net/http.StripPrefix.func1(0x85e600, 0xc000494000, 0xc0004b8100)
+	/usr/local/go/src/net/http/server.go:2092 +0x234
+net/http.HandlerFunc.ServeHTTP(0xc00047c270, 0x85e600, 0xc000494000, 0xc0004b8100)
+	/usr/local/go/src/net/http/server.go:2049 +0x44
+net/http.(*ServeMux).ServeHTTP(0xc0002e6080, 0x85e600, 0xc000494000, 0xc0004b8100)
+	/usr/local/go/src/net/http/server.go:2428 +0x1ad
+binance/pkg.(*Application).AccessLogMiddleware.func1(0x85e600, 0xc000494000, 0xc0004b8100)
+	/home/miron/Documents/job tests/altf4/pkg/handlers.go:29 +0x1ac
+net/http.HandlerFunc.ServeHTTP(0xc00032e080, 0x85e600, 0xc000494000, 0xc0004b8100)
+	/usr/local/go/src/net/http/server.go:2049 +0x44
+binance/pkg.(*Application).SecureHeaderMiddleware.func1(0x85e600, 0xc000494000, 0xc0004b8100)
+	/home/miron/Documents/job tests/altf4/pkg/handlers.go:19 +0x5ac
+net/http.HandlerFunc.ServeHTTP(0xc000332060, 0x85e600, 0xc000494000, 0xc0004b8100)
+	/usr/local/go/src/net/http/server.go:2049 +0x44
+net/http.serverHandler.ServeHTTP(0xc000346000, 0x85e600, 0xc000494000, 0xc0004b8100)
+	/usr/local/go/src/net/http/server.go:2867 +0xa3
+net/http.initALPNRequest.ServeHTTP(0x85ede0, 0xc00047c960, 0xc000096a80, 0xc000346000, 0x85e600, 0xc000494000, 0xc0004b8100)
+	/usr/local/go/src/net/http/server.go:3439 +0x8d
+net/http.(*http2serverConn).runHandler(0xc000484900, 0xc000494000, 0xc0004b8100, 0xc000496000)
+	/usr/local/go/src/net/http/h2_bundle.go:5723 +0x8b
+created by net/http.(*http2serverConn).processHeaders
+	/usr/local/go/src/net/http/h2_bundle.go:5453 +0x505
+[34m[INFO][0m	2021/09/26 23:18:40 init.go:35: loggers is done!
+[34m[INFO][0m	2021/09/26 23:18:42 main.go:22: initialization completed!
+[34m[INFO][0m	2021/09/26 23:18:42 main.go:47: server listening on port 4330
+[31m[ERROR][0m	2021/09/26 23:18:49 server.go:3117: http: TLS handshake error from [::1]:42008: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:18:49 handlers.go:28: [::1]:42010 GET: '/'
+[34m[INFO][0m	2021/09/26 23:18:49 handlers.go:28: [::1]:42010 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 23:18:49 handlers.go:28: [::1]:42010 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 23:18:49 handlers.go:28: [::1]:42010 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 23:18:49 handlers.go:28: [::1]:42010 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 23:18:49 handlers.go:28: [::1]:42010 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 23:18:49 handlers.go:28: [::1]:42010 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 23:18:49 handlers.go:28: [::1]:42010 GET: '/assets/js/utils.js'
+[34m[INFO][0m	2021/09/26 23:18:49 handlers.go:28: [::1]:42010 GET: '/api/exchange-points?'
+[31m[ERROR][0m	2021/09/26 23:18:49 server.go:3117: http: TLS handshake error from [::1]:42012: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:18:49 handlers.go:28: [::1]:42010 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 23:18:49 handlers.go:28: [::1]:42014 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 23:18:49 handlers.go:28: [::1]:42010 GET: '/api/exchange-currencies?point=100&token=OVtqZtMn'
+[34m[INFO][0m	2021/09/26 23:18:51 handlers.go:28: [::1]:42010 GET: '/api/exchange-subscribe?point=100&symbol=ETHBTC&token=OVtqZtMn'
+[31m[ERROR][0m	2021/09/26 23:18:52 ws.go:182: json: Unmarshal(nil)
+[34m[INFO][0m	2021/09/26 23:19:30 init.go:35: loggers is done!
+[34m[INFO][0m	2021/09/26 23:19:32 main.go:22: initialization completed!
+[34m[INFO][0m	2021/09/26 23:19:32 main.go:47: server listening on port 4330
+[31m[ERROR][0m	2021/09/26 23:19:36 server.go:3117: http: TLS handshake error from [::1]:42396: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:19:36 handlers.go:28: [::1]:42398 GET: '/'
+[34m[INFO][0m	2021/09/26 23:19:36 handlers.go:28: [::1]:42398 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 23:19:36 handlers.go:28: [::1]:42398 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 23:19:36 handlers.go:28: [::1]:42398 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 23:19:36 handlers.go:28: [::1]:42398 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 23:19:36 handlers.go:28: [::1]:42398 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 23:19:36 handlers.go:28: [::1]:42398 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 23:19:36 handlers.go:28: [::1]:42398 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 23:19:36 server.go:3117: http: TLS handshake error from [::1]:42400: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:19:36 handlers.go:28: [::1]:42398 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 23:19:36 handlers.go:28: [::1]:42398 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 23:19:36 handlers.go:28: [::1]:42402 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 23:19:36 handlers.go:28: [::1]:42398 GET: '/api/exchange-currencies?point=100&token=7CVIzZAB'
+[34m[INFO][0m	2021/09/26 23:19:39 handlers.go:28: [::1]:42398 GET: '/api/exchange-subscribe?point=100&symbol=ETHBTC&token=7CVIzZAB'
+[31m[ERROR][0m	2021/09/26 23:19:40 ws.go:182: json: Unmarshal(nil)
+[34m[INFO][0m	2021/09/26 23:19:56 handlers.go:28: [::1]:42398 GET: '/api/exchange-currencies?point=100&token=7CVIzZAB'
+[34m[INFO][0m	2021/09/26 23:38:34 init.go:35: loggers is done!
+[34m[INFO][0m	2021/09/26 23:38:35 main.go:22: initialization completed!
+[34m[INFO][0m	2021/09/26 23:38:35 main.go:47: server listening on port 4330
+[34m[INFO][0m	2021/09/26 23:38:40 init.go:35: loggers is done!
+[34m[INFO][0m	2021/09/26 23:38:41 main.go:22: initialization completed!
+[34m[INFO][0m	2021/09/26 23:38:41 main.go:47: server listening on port 4330
+[31m[ERROR][0m	2021/09/26 23:38:43 server.go:3117: http: TLS handshake error from [::1]:51754: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:38:43 handlers.go:28: [::1]:51756 GET: '/'
+[34m[INFO][0m	2021/09/26 23:38:43 handlers.go:28: [::1]:51756 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 23:38:43 handlers.go:28: [::1]:51756 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 23:38:43 handlers.go:28: [::1]:51756 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 23:38:43 handlers.go:28: [::1]:51756 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 23:38:43 handlers.go:28: [::1]:51756 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 23:38:43 handlers.go:28: [::1]:51756 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 23:38:43 handlers.go:28: [::1]:51756 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 23:38:43 server.go:3117: http: TLS handshake error from [::1]:51758: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:38:43 handlers.go:28: [::1]:51756 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 23:38:43 handlers.go:28: [::1]:51756 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 23:38:44 handlers.go:28: [::1]:51760 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 23:38:45 handlers.go:28: [::1]:51756 GET: '/api/exchange-currencies?point=100&token=dgE0uHnk'
+[34m[INFO][0m	2021/09/26 23:38:48 handlers.go:28: [::1]:51756 GET: '/api/exchange-subscribe?point=100&symbol=ETHBTC&token=dgE0uHnk'
+[31m[ERROR][0m	2021/09/26 23:38:49 ws.go:185: json: Unmarshal(nil)
+[31m[ERROR][0m	2021/09/26 23:43:59 server.go:3117: http: TLS handshake error from [::1]:54298: remote error: tls: unknown certificate
+[31m[ERROR][0m	2021/09/26 23:43:59 server.go:3117: http: TLS handshake error from [::1]:54300: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:43:59 handlers.go:28: [::1]:54302 GET: '/'
+[31m[ERROR][0m	2021/09/26 23:43:59 ws.go:160: websocket: close 1001 (going away)
+[34m[INFO][0m	2021/09/26 23:43:59 handlers.go:28: [::1]:54302 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 23:43:59 handlers.go:28: [::1]:54302 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 23:43:59 handlers.go:28: [::1]:54302 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 23:43:59 handlers.go:28: [::1]:54302 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 23:43:59 handlers.go:28: [::1]:54302 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 23:43:59 handlers.go:28: [::1]:54302 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 23:43:59 handlers.go:28: [::1]:54302 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 23:43:59 server.go:3117: http: TLS handshake error from [::1]:54304: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:43:59 handlers.go:28: [::1]:54302 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 23:43:59 handlers.go:28: [::1]:54302 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 23:43:59 handlers.go:28: [::1]:54306 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 23:44:00 handlers.go:28: [::1]:54302 GET: '/api/exchange-currencies?point=100&token=QA7hNmZp'
+[34m[INFO][0m	2021/09/26 23:44:03 handlers.go:28: [::1]:54302 GET: '/api/exchange-subscribe?point=100&symbol=ETHBTC&token=QA7hNmZp'
+[34m[INFO][0m	2021/09/26 23:44:10 init.go:35: loggers is done!
+[34m[INFO][0m	2021/09/26 23:44:11 main.go:22: initialization completed!
+[34m[INFO][0m	2021/09/26 23:44:11 main.go:47: server listening on port 4330
+[31m[ERROR][0m	2021/09/26 23:44:12 server.go:3117: http: TLS handshake error from [::1]:54434: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:44:12 handlers.go:28: [::1]:54436 GET: '/'
+[34m[INFO][0m	2021/09/26 23:44:12 handlers.go:28: [::1]:54436 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 23:44:12 handlers.go:28: [::1]:54436 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 23:44:12 handlers.go:28: [::1]:54436 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 23:44:12 handlers.go:28: [::1]:54436 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 23:44:12 handlers.go:28: [::1]:54436 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 23:44:12 handlers.go:28: [::1]:54436 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 23:44:12 handlers.go:28: [::1]:54436 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 23:44:12 server.go:3117: http: TLS handshake error from [::1]:54446: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:44:12 handlers.go:28: [::1]:54436 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 23:44:12 handlers.go:28: [::1]:54436 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 23:44:12 handlers.go:28: [::1]:54448 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 23:44:24 init.go:35: loggers is done!
+[34m[INFO][0m	2021/09/26 23:44:26 main.go:22: initialization completed!
+[34m[INFO][0m	2021/09/26 23:44:26 main.go:47: server listening on port 4330
+[31m[ERROR][0m	2021/09/26 23:44:28 server.go:3117: http: TLS handshake error from [::1]:54572: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:44:28 handlers.go:28: [::1]:54574 GET: '/'
+[34m[INFO][0m	2021/09/26 23:44:28 handlers.go:28: [::1]:54574 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 23:44:28 handlers.go:28: [::1]:54574 GET: '/assets/js/exchange.js'
+[31m[ERROR][0m	2021/09/26 23:44:28 server.go:3117: http: TLS handshake error from [::1]:54576: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:44:28 handlers.go:28: [::1]:54574 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 23:44:28 handlers.go:28: [::1]:54574 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 23:44:28 handlers.go:28: [::1]:54578 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 23:44:29 handlers.go:28: [::1]:54574 GET: '/api/exchange-currencies?point=100&token=SgHGziLf'
+[34m[INFO][0m	2021/09/26 23:44:31 handlers.go:28: [::1]:54574 GET: '/api/exchange-subscribe?point=100&symbol=ETHBTC&token=SgHGziLf'
+[31m[ERROR][0m	2021/09/26 23:44:31 ws.go:185: json: Unmarshal(nil)
+[34m[INFO][0m	2021/09/26 23:45:01 handlers.go:28: [::1]:54574 GET: '/'
+[31m[ERROR][0m	2021/09/26 23:45:01 ws.go:160: websocket: close 1001 (going away)
+[34m[INFO][0m	2021/09/26 23:45:01 handlers.go:28: [::1]:54574 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 23:45:01 handlers.go:28: [::1]:54574 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 23:45:01 handlers.go:28: [::1]:54574 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 23:45:01 handlers.go:28: [::1]:54574 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 23:45:01 handlers.go:28: [::1]:54574 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 23:45:01 handlers.go:28: [::1]:54574 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 23:45:01 handlers.go:28: [::1]:54574 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 23:45:01 server.go:3117: http: TLS handshake error from [::1]:54852: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:45:01 handlers.go:28: [::1]:54574 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 23:45:01 handlers.go:28: [::1]:54574 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 23:45:01 handlers.go:28: [::1]:54854 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 23:45:01 handlers.go:28: [::1]:54574 GET: '/api/exchange-currencies?point=100&token=cqsVXNSo'
+[34m[INFO][0m	2021/09/26 23:45:04 handlers.go:28: [::1]:54574 GET: '/api/exchange-subscribe?point=100&symbol=ETHBTC&token=cqsVXNSo'
+[34m[INFO][0m	2021/09/26 23:45:21 init.go:35: loggers is done!
+[34m[INFO][0m	2021/09/26 23:45:22 main.go:22: initialization completed!
+[34m[INFO][0m	2021/09/26 23:45:22 main.go:47: server listening on port 4330
+[31m[ERROR][0m	2021/09/26 23:45:24 server.go:3117: http: TLS handshake error from [::1]:55052: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:45:24 handlers.go:28: [::1]:55054 GET: '/'
+[34m[INFO][0m	2021/09/26 23:45:24 handlers.go:28: [::1]:55054 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 23:45:24 handlers.go:28: [::1]:55054 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 23:45:24 handlers.go:28: [::1]:55054 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 23:45:24 handlers.go:28: [::1]:55054 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 23:45:24 handlers.go:28: [::1]:55054 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 23:45:24 handlers.go:28: [::1]:55054 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 23:45:24 handlers.go:28: [::1]:55054 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 23:45:24 server.go:3117: http: TLS handshake error from [::1]:55056: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:45:24 handlers.go:28: [::1]:55054 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 23:45:24 handlers.go:28: [::1]:55054 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 23:45:24 handlers.go:28: [::1]:55058 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 23:45:25 handlers.go:28: [::1]:55054 GET: '/api/exchange-currencies?point=100&token=OGNZ9XVt'
+[34m[INFO][0m	2021/09/26 23:45:27 handlers.go:28: [::1]:55054 GET: '/api/exchange-subscribe?point=100&symbol=ETHBTC&token=OGNZ9XVt'
+[31m[ERROR][0m	2021/09/26 23:45:29 ws.go:185: json: Unmarshal(nil)
+[34m[INFO][0m	2021/09/26 23:48:54 init.go:35: loggers is done!
+[34m[INFO][0m	2021/09/26 23:48:57 main.go:22: initialization completed!
+[34m[INFO][0m	2021/09/26 23:48:57 main.go:47: server listening on port 4330
+[31m[ERROR][0m	2021/09/26 23:49:00 server.go:3117: http: TLS handshake error from [::1]:56806: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:49:00 handlers.go:28: [::1]:56808 GET: '/'
+[34m[INFO][0m	2021/09/26 23:49:00 handlers.go:28: [::1]:56808 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 23:49:00 handlers.go:28: [::1]:56808 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 23:49:00 handlers.go:28: [::1]:56808 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 23:49:00 handlers.go:28: [::1]:56808 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 23:49:00 handlers.go:28: [::1]:56808 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 23:49:00 handlers.go:28: [::1]:56808 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 23:49:00 handlers.go:28: [::1]:56808 GET: '/assets/js/utils.js'
+[34m[INFO][0m	2021/09/26 23:49:00 handlers.go:28: [::1]:56808 GET: '/api/exchange-points?'
+[31m[ERROR][0m	2021/09/26 23:49:00 server.go:3117: http: TLS handshake error from [::1]:56818: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:49:00 handlers.go:28: [::1]:56808 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 23:49:00 handlers.go:28: [::1]:56820 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 23:49:01 handlers.go:28: [::1]:56808 GET: '/api/exchange-currencies?point=100&token=Bw730WIK'
+[34m[INFO][0m	2021/09/26 23:49:03 handlers.go:28: [::1]:56808 GET: '/api/exchange-subscribe?point=100&symbol=ETHBTC&token=Bw730WIK'
+[31m[ERROR][0m	2021/09/26 23:49:05 ws.go:185: json: Unmarshal(nil)
+[34m[INFO][0m	2021/09/26 23:49:16 init.go:35: loggers is done!
+[34m[INFO][0m	2021/09/26 23:49:18 main.go:22: initialization completed!
+[34m[INFO][0m	2021/09/26 23:49:18 main.go:47: server listening on port 4330
+[31m[ERROR][0m	2021/09/26 23:49:20 server.go:3117: http: TLS handshake error from [::1]:56982: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:49:20 handlers.go:28: [::1]:56984 GET: '/'
+[34m[INFO][0m	2021/09/26 23:49:20 handlers.go:28: [::1]:56984 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 23:49:20 handlers.go:28: [::1]:56984 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 23:49:20 handlers.go:28: [::1]:56984 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 23:49:20 handlers.go:28: [::1]:56984 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 23:49:20 handlers.go:28: [::1]:56984 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 23:49:20 handlers.go:28: [::1]:56984 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 23:49:20 server.go:3117: http: TLS handshake error from [::1]:56986: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:49:20 handlers.go:28: [::1]:56984 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 23:49:20 handlers.go:28: [::1]:56984 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 23:49:20 handlers.go:28: [::1]:56988 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 23:49:21 handlers.go:28: [::1]:56984 GET: '/api/exchange-currencies?point=100&token=jX8Y4lND'
+[34m[INFO][0m	2021/09/26 23:49:23 handlers.go:28: [::1]:56984 GET: '/api/exchange-subscribe?point=100&symbol=ETHBTC&token=jX8Y4lND'
+[31m[ERROR][0m	2021/09/26 23:49:24 ws.go:185: json: Unmarshal(nil)
+[34m[INFO][0m	2021/09/26 23:49:53 init.go:35: loggers is done!
+[34m[INFO][0m	2021/09/26 23:49:55 main.go:22: initialization completed!
+[34m[INFO][0m	2021/09/26 23:49:55 main.go:47: server listening on port 4330
+[31m[ERROR][0m	2021/09/26 23:49:59 server.go:3117: http: TLS handshake error from [::1]:57324: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:49:59 handlers.go:28: [::1]:57326 GET: '/'
+[34m[INFO][0m	2021/09/26 23:49:59 handlers.go:28: [::1]:57326 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 23:49:59 handlers.go:28: [::1]:57326 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 23:49:59 handlers.go:28: [::1]:57326 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 23:49:59 handlers.go:28: [::1]:57326 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 23:49:59 handlers.go:28: [::1]:57326 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 23:49:59 handlers.go:28: [::1]:57326 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 23:49:59 handlers.go:28: [::1]:57326 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 23:49:59 server.go:3117: http: TLS handshake error from [::1]:57328: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:49:59 handlers.go:28: [::1]:57326 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 23:49:59 handlers.go:28: [::1]:57326 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 23:49:59 handlers.go:28: [::1]:57330 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 23:50:01 handlers.go:28: [::1]:57326 GET: '/api/exchange-currencies?point=100&token=KvHBQGyH'
+[34m[INFO][0m	2021/09/26 23:50:04 handlers.go:28: [::1]:57326 GET: '/api/exchange-subscribe?point=100&symbol=ETHBTC&token=KvHBQGyH'
+[31m[ERROR][0m	2021/09/26 23:50:05 ws.go:185: json: Unmarshal(nil)
+[34m[INFO][0m	2021/09/26 23:50:29 init.go:35: loggers is done!
+[34m[INFO][0m	2021/09/26 23:50:31 main.go:22: initialization completed!
+[34m[INFO][0m	2021/09/26 23:50:31 main.go:47: server listening on port 4330
+[31m[ERROR][0m	2021/09/26 23:50:37 server.go:3117: http: TLS handshake error from [::1]:57636: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:50:37 handlers.go:28: [::1]:57638 GET: '/'
+[34m[INFO][0m	2021/09/26 23:50:37 handlers.go:28: [::1]:57638 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 23:50:37 handlers.go:28: [::1]:57638 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 23:50:37 handlers.go:28: [::1]:57638 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 23:50:37 handlers.go:28: [::1]:57638 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 23:50:37 handlers.go:28: [::1]:57638 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 23:50:37 handlers.go:28: [::1]:57638 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 23:50:37 handlers.go:28: [::1]:57638 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 23:50:37 server.go:3117: http: TLS handshake error from [::1]:57640: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:50:37 handlers.go:28: [::1]:57638 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 23:50:37 handlers.go:28: [::1]:57638 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 23:50:37 handlers.go:28: [::1]:57650 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 23:50:38 handlers.go:28: [::1]:57638 GET: '/api/exchange-currencies?point=100&token=tJtLsV4d'
+[34m[INFO][0m	2021/09/26 23:50:39 handlers.go:28: [::1]:57638 GET: '/api/exchange-subscribe?point=100&symbol=ETHBTC&token=tJtLsV4d'
+[31m[ERROR][0m	2021/09/26 23:50:40 ws.go:185: json: Unmarshal(nil)
+[34m[INFO][0m	2021/09/26 23:50:42 handlers.go:28: [::1]:57638 GET: '/'
+[31m[ERROR][0m	2021/09/26 23:50:42 ws.go:160: websocket: close 1001 (going away)
+[34m[INFO][0m	2021/09/26 23:50:42 handlers.go:28: [::1]:57638 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 23:50:42 handlers.go:28: [::1]:57638 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 23:50:42 handlers.go:28: [::1]:57638 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 23:50:42 handlers.go:28: [::1]:57638 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 23:50:42 handlers.go:28: [::1]:57638 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 23:50:42 handlers.go:28: [::1]:57638 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 23:50:42 handlers.go:28: [::1]:57638 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 23:50:42 server.go:3117: http: TLS handshake error from [::1]:57694: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:50:42 handlers.go:28: [::1]:57638 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 23:50:42 handlers.go:28: [::1]:57638 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 23:50:42 handlers.go:28: [::1]:57696 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 23:50:43 handlers.go:28: [::1]:57638 GET: '/api/exchange-currencies?point=100&token=Bl9RRd08'
+[34m[INFO][0m	2021/09/26 23:50:45 handlers.go:28: [::1]:57638 GET: '/api/exchange-subscribe?point=100&symbol=ETHBTC&token=Bl9RRd08'
+[34m[INFO][0m	2021/09/26 23:50:48 init.go:35: loggers is done!
+[34m[INFO][0m	2021/09/26 23:50:50 main.go:22: initialization completed!
+[34m[INFO][0m	2021/09/26 23:50:50 main.go:47: server listening on port 4330
+[31m[ERROR][0m	2021/09/26 23:50:52 server.go:3117: http: TLS handshake error from [::1]:57772: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:50:52 handlers.go:28: [::1]:57774 GET: '/'
+[34m[INFO][0m	2021/09/26 23:50:52 handlers.go:28: [::1]:57774 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 23:50:52 handlers.go:28: [::1]:57774 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 23:50:52 handlers.go:28: [::1]:57774 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 23:50:52 handlers.go:28: [::1]:57774 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 23:50:52 handlers.go:28: [::1]:57774 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 23:50:52 handlers.go:28: [::1]:57774 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 23:50:52 handlers.go:28: [::1]:57774 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 23:50:52 server.go:3117: http: TLS handshake error from [::1]:57776: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:50:52 handlers.go:28: [::1]:57774 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 23:50:52 handlers.go:28: [::1]:57774 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 23:50:52 handlers.go:28: [::1]:57778 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 23:50:53 handlers.go:28: [::1]:57774 GET: '/api/exchange-currencies?point=100&token=vAQiH6wp'
+[34m[INFO][0m	2021/09/26 23:50:55 handlers.go:28: [::1]:57774 GET: '/api/exchange-subscribe?point=100&symbol=ETHBTC&token=vAQiH6wp'
+[31m[ERROR][0m	2021/09/26 23:50:56 ws.go:185: json: Unmarshal(nil)
+[34m[INFO][0m	2021/09/26 23:51:14 init.go:35: loggers is done!
+[34m[INFO][0m	2021/09/26 23:51:16 main.go:22: initialization completed!
+[34m[INFO][0m	2021/09/26 23:51:16 main.go:47: server listening on port 4330
+[31m[ERROR][0m	2021/09/26 23:51:18 server.go:3117: http: TLS handshake error from [::1]:57992: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:51:18 handlers.go:28: [::1]:57994 GET: '/'
+[34m[INFO][0m	2021/09/26 23:51:18 handlers.go:28: [::1]:57994 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 23:51:18 handlers.go:28: [::1]:57994 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 23:51:18 handlers.go:28: [::1]:57994 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 23:51:18 handlers.go:28: [::1]:57994 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 23:51:18 handlers.go:28: [::1]:57994 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 23:51:18 handlers.go:28: [::1]:57994 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 23:51:18 handlers.go:28: [::1]:57994 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 23:51:18 server.go:3117: http: TLS handshake error from [::1]:57996: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:51:18 handlers.go:28: [::1]:57994 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 23:51:18 handlers.go:28: [::1]:57994 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 23:51:18 handlers.go:28: [::1]:57998 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 23:51:19 handlers.go:28: [::1]:57994 GET: '/api/exchange-currencies?point=100&token=IGCJQOQl'
+[34m[INFO][0m	2021/09/26 23:51:21 handlers.go:28: [::1]:57994 GET: '/api/exchange-subscribe?point=100&symbol=ETHBTC&token=IGCJQOQl'
+[31m[ERROR][0m	2021/09/26 23:51:22 ws.go:185: json: Unmarshal(nil)
+[34m[INFO][0m	2021/09/26 23:51:55 init.go:35: loggers is done!
+[34m[INFO][0m	2021/09/26 23:51:57 main.go:22: initialization completed!
+[34m[INFO][0m	2021/09/26 23:51:57 main.go:47: server listening on port 4330
+[31m[ERROR][0m	2021/09/26 23:51:59 server.go:3117: http: TLS handshake error from [::1]:58338: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:51:59 handlers.go:28: [::1]:58340 GET: '/'
+[34m[INFO][0m	2021/09/26 23:52:00 handlers.go:28: [::1]:58340 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 23:52:00 handlers.go:28: [::1]:58340 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 23:52:00 handlers.go:28: [::1]:58340 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 23:52:00 handlers.go:28: [::1]:58340 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 23:52:00 handlers.go:28: [::1]:58340 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 23:52:00 handlers.go:28: [::1]:58340 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 23:52:00 handlers.go:28: [::1]:58340 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 23:52:00 server.go:3117: http: TLS handshake error from [::1]:58342: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:52:00 handlers.go:28: [::1]:58340 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 23:52:00 handlers.go:28: [::1]:58340 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 23:52:00 handlers.go:28: [::1]:58344 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 23:52:00 handlers.go:28: [::1]:58340 GET: '/api/exchange-currencies?point=100&token=3568X0LA'
+[34m[INFO][0m	2021/09/26 23:52:02 handlers.go:28: [::1]:58340 GET: '/api/exchange-subscribe?point=100&symbol=ETHBTC&token=3568X0LA'
+[31m[ERROR][0m	2021/09/26 23:52:03 ws.go:185: json: Unmarshal(nil)
+[34m[INFO][0m	2021/09/26 23:52:51 init.go:35: loggers is done!
+[34m[INFO][0m	2021/09/26 23:52:52 main.go:22: initialization completed!
+[34m[INFO][0m	2021/09/26 23:52:52 main.go:47: server listening on port 4330
+[31m[ERROR][0m	2021/09/26 23:52:55 server.go:3117: http: TLS handshake error from [::1]:58794: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:52:55 handlers.go:28: [::1]:58804 GET: '/'
+[34m[INFO][0m	2021/09/26 23:52:55 handlers.go:28: [::1]:58804 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 23:52:55 handlers.go:28: [::1]:58804 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 23:52:55 handlers.go:28: [::1]:58804 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 23:52:55 handlers.go:28: [::1]:58804 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 23:52:55 handlers.go:28: [::1]:58804 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 23:52:55 handlers.go:28: [::1]:58804 GET: '/assets/js/utils.js'
+[34m[INFO][0m	2021/09/26 23:52:55 handlers.go:28: [::1]:58804 GET: '/assets/js/api.js'
+[31m[ERROR][0m	2021/09/26 23:52:55 server.go:3117: http: TLS handshake error from [::1]:58806: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:52:55 handlers.go:28: [::1]:58804 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 23:52:55 handlers.go:28: [::1]:58804 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 23:52:55 handlers.go:28: [::1]:58808 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 23:52:56 handlers.go:28: [::1]:58804 GET: '/api/exchange-currencies?point=100&token=N13RLPyB'
+[34m[INFO][0m	2021/09/26 23:52:58 handlers.go:28: [::1]:58804 GET: '/api/exchange-subscribe?point=100&symbol=ETHBTC&token=N13RLPyB'
+[31m[ERROR][0m	2021/09/26 23:52:59 ws.go:185: json: Unmarshal(nil)
+[34m[INFO][0m	2021/09/26 23:53:13 handlers.go:28: [::1]:58804 GET: '/'
+[31m[ERROR][0m	2021/09/26 23:53:14 ws.go:160: websocket: close 1001 (going away)
+[34m[INFO][0m	2021/09/26 23:53:14 handlers.go:28: [::1]:58804 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 23:53:14 handlers.go:28: [::1]:58804 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 23:53:14 handlers.go:28: [::1]:58804 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 23:53:14 handlers.go:28: [::1]:58804 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 23:53:14 handlers.go:28: [::1]:58804 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 23:53:14 handlers.go:28: [::1]:58804 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 23:53:14 handlers.go:28: [::1]:58804 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 23:53:14 server.go:3117: http: TLS handshake error from [::1]:58964: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:53:14 handlers.go:28: [::1]:58804 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 23:53:14 handlers.go:28: [::1]:58804 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 23:53:14 handlers.go:28: [::1]:58966 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 23:53:18 handlers.go:28: [::1]:58804 GET: '/api/exchange-currencies?point=100&token=xHiEaqOh'
+[34m[INFO][0m	2021/09/26 23:53:20 handlers.go:28: [::1]:58804 GET: '/api/exchange-subscribe?point=100&symbol=ETHBTC&token=xHiEaqOh'
+[34m[INFO][0m	2021/09/26 23:54:43 init.go:35: loggers is done!
+[34m[INFO][0m	2021/09/26 23:54:44 main.go:22: initialization completed!
+[34m[INFO][0m	2021/09/26 23:54:44 main.go:47: server listening on port 4330
+[31m[ERROR][0m	2021/09/26 23:54:46 server.go:3117: http: TLS handshake error from [::1]:59724: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:54:46 handlers.go:28: [::1]:59726 GET: '/'
+[34m[INFO][0m	2021/09/26 23:54:46 handlers.go:28: [::1]:59726 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 23:54:46 handlers.go:28: [::1]:59726 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 23:54:46 handlers.go:28: [::1]:59726 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 23:54:46 handlers.go:28: [::1]:59726 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 23:54:46 handlers.go:28: [::1]:59726 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 23:54:46 handlers.go:28: [::1]:59726 GET: '/assets/js/utils.js'
+[34m[INFO][0m	2021/09/26 23:54:46 handlers.go:28: [::1]:59726 GET: '/assets/js/api.js'
+[31m[ERROR][0m	2021/09/26 23:54:46 server.go:3117: http: TLS handshake error from [::1]:59728: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:54:46 handlers.go:28: [::1]:59726 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 23:54:46 handlers.go:28: [::1]:59726 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 23:54:46 handlers.go:28: [::1]:59730 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 23:54:47 handlers.go:28: [::1]:59726 GET: '/api/exchange-currencies?point=100&token=MF3HAEAY'
+[34m[INFO][0m	2021/09/26 23:54:49 handlers.go:28: [::1]:59726 GET: '/api/exchange-subscribe?point=100&symbol=ETHBTC&token=MF3HAEAY'
+[34m[INFO][0m	2021/09/26 23:54:49 handlers.go:28: [::1]:59726 POST: '/api/exchange-unsubscribe'
+[31m[ERROR][0m	2021/09/26 23:54:49 ws.go:185: json: Unmarshal(nil)
+[34m[INFO][0m	2021/09/26 23:55:19 init.go:35: loggers is done!
+[34m[INFO][0m	2021/09/26 23:55:21 main.go:22: initialization completed!
+[34m[INFO][0m	2021/09/26 23:55:21 main.go:47: server listening on port 4330
+[31m[ERROR][0m	2021/09/26 23:55:28 server.go:3117: http: TLS handshake error from [::1]:60084: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:55:28 handlers.go:28: [::1]:60086 GET: '/'
+[34m[INFO][0m	2021/09/26 23:55:28 handlers.go:28: [::1]:60086 GET: '/assets/css/style.css'
+[34m[INFO][0m	2021/09/26 23:55:28 handlers.go:28: [::1]:60086 GET: '/assets/css/order-book.css'
+[34m[INFO][0m	2021/09/26 23:55:28 handlers.go:28: [::1]:60086 GET: '/assets/js/script.js'
+[34m[INFO][0m	2021/09/26 23:55:28 handlers.go:28: [::1]:60086 GET: '/assets/js/ws.js'
+[34m[INFO][0m	2021/09/26 23:55:28 handlers.go:28: [::1]:60086 GET: '/assets/js/exchange.js'
+[34m[INFO][0m	2021/09/26 23:55:28 handlers.go:28: [::1]:60086 GET: '/assets/js/api.js'
+[34m[INFO][0m	2021/09/26 23:55:28 handlers.go:28: [::1]:60086 GET: '/assets/js/utils.js'
+[31m[ERROR][0m	2021/09/26 23:55:28 server.go:3117: http: TLS handshake error from [::1]:60088: remote error: tls: unknown certificate
+[34m[INFO][0m	2021/09/26 23:55:28 handlers.go:28: [::1]:60086 GET: '/api/exchange-points?'
+[34m[INFO][0m	2021/09/26 23:55:28 handlers.go:28: [::1]:60086 GET: '/favicon.ico'
+[34m[INFO][0m	2021/09/26 23:55:28 handlers.go:28: [::1]:60090 GET: '/ws/'
+[34m[INFO][0m	2021/09/26 23:55:29 handlers.go:28: [::1]:60086 GET: '/api/exchange-currencies?point=100&token=wCj2zk1o'
+[34m[INFO][0m	2021/09/26 23:55:31 handlers.go:28: [::1]:60086 GET: '/api/exchange-subscribe?point=100&symbol=ETHBTC&token=wCj2zk1o'
+[31m[ERROR][0m	2021/09/26 23:55:32 ws.go:185: json: Unmarshal(nil)

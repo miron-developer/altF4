@@ -13,11 +13,7 @@ func (app *Application) SecureHeaderMiddleware(next http.Handler) http.Handler {
 		w.Header().Set("cross-origin-resource-policy", "cross-origin")
 		w.Header().Set("X-XSS-Protection", "1;mode=block")
 		w.Header().Set("X-Frame-Options", "deny")
-		accessOrigin := "http://localhost:3000"
-		if app.IsHeroku {
-			accessOrigin = "https://wnet-sn.herokuapp.com"
-		}
-		w.Header().Set("Access-Control-Allow-Origin", accessOrigin)
+		w.Header().Set("Access-Control-Allow-Origin", "*")
 		w.Header().Set("Access-Control-Allow-Methods", "POST, GET")
 		w.Header().Set("Access-Control-Allow-Credentials", "true")
 		next.ServeHTTP(w, r)
@@ -48,13 +44,25 @@ func (app *Application) CreateWSUser(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
-	user := &WSUser{Conn: conn, ID: StringWithCharset(8)}
+	// generating unical id
+	id := -1
+	for {
+		id = RandomInt()
+		if exist := app.findByID(id, 1); exist == nil {
+			break
+		}
+	}
+
+	user := &WSUser{Conn: conn, ID: id, Token: StringWithCharset(8)}
 	app.m.Lock()
-	app.OnlineUsers[user.ID] = user
+	app.OnlineUsers[user.Token] = user
 	app.m.Unlock()
 
-	go app.OnlineUsers[user.ID].HandleUserMsg(app)
-	go app.OnlineUsers[user.ID].Pinger()
+	// send user token
+	user.Conn.WriteJSON(&WSMessage{MsgType: WSM_SEND_USERID, AddresserToken: WSM_SERVER_TOKEN, ReceiverToken: user.Token, Body: user.Token})
+
+	go app.OnlineUsers[user.Token].HandleUserMsg(app)
+	go app.OnlineUsers[user.Token].Pinger()
 }
 
 // HIndex handle all GETs
@@ -71,4 +79,55 @@ func (app *Application) HIndex(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 	t.Execute(w, nil)
+}
+
+/* ----------------------------------------------- API ---------------------------------------------- */
+
+// HApiIndex for handle '/api/'
+func (app *Application) HApiIndex(w http.ResponseWriter, r *http.Request) {
+	type Route struct {
+		Path        string            `json:"route"`
+		Description string            `json:"description"`
+		Params      map[string]string `json:"params"`
+		Children    []Route           `json:"children"`
+	}
+
+	data := API_RESPONSE{
+		Code: 200,
+		Data: Route{
+			Path:        "/",
+			Description: "Api possible routes",
+			Children: []Route{
+				{Path: "/exchange-points", Description: "get all possible exchange points"},
+				{Path: "/exchange-currencies", Description: "get all exchange currencies from selected exchange point", Params: map[string]string{"point": "from which point do you want to see currencies"}},
+			},
+		},
+	}
+
+	DoJS(w, data)
+}
+
+// HExPoints for handle '/api/exchange-points'
+func (app *Application) HExPoints(w http.ResponseWriter, r *http.Request) {
+	HApi(w, r, func(w http.ResponseWriter, r *http.Request) (interface{}, error) {
+		if r.Method == "POST" {
+			return nil, errors.New("wrong method")
+		}
+		return []map[string]string{{"id": "100", "name": "Binance"}}, nil
+	})
+}
+
+// HExCurrencies for handle '/api/exchange-currencies'
+func (app *Application) HExCurrencies(w http.ResponseWriter, r *http.Request) {
+	HApi(w, r, app.GetCurrenciesFromID)
+}
+
+// HExSubscribe for handle '/api/exchange-subscribe'
+func (app *Application) HExSubscribe(w http.ResponseWriter, r *http.Request) {
+	HApi(w, r, app.SubscribeCurrencie)
+}
+
+// HExUnsubscribe for handle '/api/exchange-unsubscribe'
+func (app *Application) HExUnsubscribe(w http.ResponseWriter, r *http.Request) {
+	HApi(w, r, app.UnsubscribeCurrencie)
 }

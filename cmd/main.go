@@ -21,8 +21,8 @@ func main() {
 
 	app.ILog.Println("initialization completed!")
 
-	// websocket work
-	go app.WSWork()
+	// null rq count per min
+	go app.CheckPerMin()
 
 	// server
 	srv := http.Server{

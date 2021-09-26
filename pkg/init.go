@@ -34,7 +34,7 @@ func InitProg() *Application {
 	iLog := log.New(logFile, "\033[34m[INFO]\033[0m\t", log.Ldate|log.Ltime|log.Lshortfile)
 	iLog.Println("loggers is done!")
 
-	return &Application{
+	app := &Application{
 		ELog:                eLog,
 		ILog:                iLog,
 		Port:                "4330",
@@ -45,4 +45,8 @@ func InitProg() *Application {
 		WSSConns:            map[string]*WSConnection{},
 		WSMessages:          make(chan *WSMessage),
 	}
+
+	app.ConnToBinance()
+
+	return app
 }
